@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -26,7 +26,6 @@ Work experience
 * 05/2017 - 08/2018 Intern, Digital China, 
   * Connected Vehicle Mobile App Algorithm Developer, 
 
-  
 Skills
 ======
 * Programming Languages: Python, SQL, Java, MATLAB, C/C++, SAS, R, JavaScript
@@ -34,7 +33,6 @@ Skills
   * Deep Learning
   * Robotics
   * Data Mining
-
 
 Publications
 ======
