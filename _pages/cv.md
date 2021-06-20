@@ -41,6 +41,7 @@ Publications
 * Yi Ge, PJ Jin, Tianya Zhang, J Martinez. Cloud versus Server-based Virtual Sensor Network based on 511 Traffic Video Streams: An Experiment with an Enhanced Spatial-Temporal-Map based Platform. *Transportation Research Record*. 2021. (Accepted)
 * Tianya Zhang, Guo M, Jin PJ, Ge Y, Gong J. Longitudinal-Scanline-Based Arterial Traffic Video Analytics with Coordinate Transformation Assisted by 3D Infrastructure Data. *Transportation Research Record*. December 2020. 
 * Tianya Zhang, Peter J. Jin, A Longitudinal Scanline based Vehicle Trajectory Reconstruction Method for High-Angle Traffic Video, *Transportation Research: Part C*, 103, 104-128, June 2019.
+
 ### Conferences
 * Y Ge, PJ Jin, T Zhang, J Martinez. Cloud-versus Server-based Virtual Sensor Network based on 511 Traffic Video Streams: An Experiment with an Enhanced Spatial-Temporal-Map based Platform. TRB 100th Annual Meeting, Washington, D.C., January 2021.
 * Tianya Zhang, Peter Jin, McVeigh, K., Brennan, T. and Jalayer, M, Automating the Traffic Signal Performance Measures for Adaptive Traffic Signal Control System. TRB 100th Annual Meeting, Washington, D.C., January 2021.
@@ -49,10 +50,12 @@ Publications
 * Tianya Zhang, & Ding, Limin. Traffic Safety Study Based on Harmonic Theory. In International Conference on Transportation and Traffic Engineering 2013: Safety, Speediness, Intelligence, Low-Carbon, Innovation (pp. 600-606). 
 * Tianya Zhang and Wang J. Human Reliability Analysis of Traffic Safety. Proceedings of the 13th International Conference on Man-Machine-Environment System Engineering, Springer. 
 * Ding, Limin and Tianya Zhang. Rethinking “Tao” of Traffic Congestion Management (in Chinese). In Preceding of Fifth China’s International Road Traffic Safety Forum. 2013, Beijing. (2nd Prize Paper Award)
+
 ### Reports
 * Peter J. Jin, Mohsen Jafari, Yufei Huang, Yizhou Wang, Tianya Zhang, New Brunswick Smart Hub: Infrastructure & Mobility Innovation Testing Ground, Concept Report, New Jersey Economic Development Authority (NJEDA), Final Report, November 2019.
 * Jin P., Ge Y., Zhang T., Wang Y., Martinez J. (2019). Cloud-Based Virtual Traffic Sensor Network with 511 CCTV Traffic Video Streams. (Report No. CAIT-UTC-NC8). Rutgers: Center for Advanced Infrastructure and Transportation (CAIT). 
 * Jin, P., Zhang, T., Brennan, T. and Jalayer, M. (2019). Real-Time Signal Performance Measurement (RT-SPM) (Report No. FHWA-NJ-2019-002). Trenton: New Jersey Department of Transportation. 
+
 ### Patents
 * Jin J, Ran B, Chen T, Jiang X, Zhang T, Yao Z, inventors; CAVH LLC, assignee. Cloud-based technology for connected and automated vehicle highway systems. United States patent application US 16/454,268.
 * Jin J, Ran B, Chen T, Zhang T, Jiang X, Yao Z, inventors; CAVH LLC, assignee. Fixed-route service system for CAVH systems. United States patent application US 16/506,470. 2020 Jan 16.
