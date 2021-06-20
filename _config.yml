@@ -11,9 +11,9 @@ title                    : "Tianya Zhang"
 title_separator          : "-"
 name                     : &name "Tianya Zhang"
 description              : &description "PhD Candidate"
-url                      : https://Tianya.T.Zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://teryzh.github.io/Website/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/TeRyZh"
+repository               : "TeRyZh"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tianya Terry Zhang"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "Ability to work independently and within teams; Analyze, verify, and interpret using engineering principles "
   location         : "New Jersey"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/TeRyZh"
+  github           : "TeRyZh"
   google_plus      :
   keybase          :
   instagram        :
