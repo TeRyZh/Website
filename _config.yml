@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tianya Terry Zhang"
-  avatar           : "images/profile.png"
+  name             : "PhD Condidate in ITS"
+  avatar           : "./images/profile.png"
   bio              : "Ability to work independently and within teams; Analyze, verify, and interpret using engineering principles "
   location         : "New Jersey"
   employer         :
