@@ -23,9 +23,9 @@ redirect_from:
 ### 08/2019 – 08/2020, The Vehicle-Infrastructure Miniature and Virtualization Platform for Connected and Automated Mobility System, iFlytek. Inc
   * Develop a roadside traffic detection and tracking algorithm and implement it into a miniature connected automated car platform.
 
-###  01/2017 - 09/2018, Cloud Computing Based Traffic Video Data Analytics, CAIT-UTC ** 
+###  01/2017 - 09/2018, Cloud Computing Based Traffic Video Data Analytics, CAIT-UTC
   * Developed computer vision algorithm for NJ511 CCTV traffic camera. 
   * Data management and deployment on AWS Cloud Platform
 
-###  09/2016 - 01/2017, Raised Pavement Marker (RPM) Project, New Jersey DOT ** 
+###  09/2016 - 01/2017, Raised Pavement Marker (RPM) Project, New Jersey DOT
   * Benefit-cost analysis of RPM and alternatives
