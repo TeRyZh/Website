@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "Projects"
+title: ""
 permalink: /projects/
 author_profile: true
 redirect_from:
   - /projects
 ---
-
 {% include base_path %}
-------
 
 ### 08/2019 - Now, New Brunswick Innovation Hub - Smart Mobility Testing Ground (SMTG)
   * Prepared proposal for planning and design smart mobility testing ground.
