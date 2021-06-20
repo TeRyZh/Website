@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "About"
-    url: /about/    
+    url: about/    
 
   - title: "Projects"
-    url: /projects/
+    url: projects/
 
   - title: "CV"
-    url: /cv/
+    url: cv/
     
-  - title: "Contact"
-    url: /contact/
+  - title: "Highlights"
+    url: Highlights/
