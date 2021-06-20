@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+------
 
-###  08/2019 - Now, New Brunswick Innovation Hub - Smart Mobility Testing Ground (SMTG)
+### 08/2019 - Now, New Brunswick Innovation Hub - Smart Mobility Testing Ground (SMTG)
   * Prepared proposal for planning and design smart mobility testing ground.
   * Exploited LiDAR and camera sensor integration for traffic detection. 
 ### 11/2019 – Now, Real-Time Traffic Signal System Performance Measurement Phase II, New Jersey DOT
