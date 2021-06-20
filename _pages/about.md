@@ -14,6 +14,7 @@ AI-powered sensing and decision capability is taking place to shape the future i
 
 Research Aeras
 ======
+
 Transportation AI and Data Science
 ------
 The application of computer vision, LiDAR, and remote sensing to collect high-resolution data to enable research and innovations. 
