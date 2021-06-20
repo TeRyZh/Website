@@ -13,7 +13,7 @@ I am a fifth-year Ph.D. candidate in Intelligent Transportation Systems (ITS) fr
 I am looking for research scientist or Post-Doc position to continue the research of combining computer vision, machine learning with Connected and Automated technology to build safe, green and smart mobility applications.
 
 Research Aeras
-------
+======
 ### Transportation AI and Data Science
 The application of computer vision, LiDAR, and remote sensing to collect high-resolution data to enable research and innovations. 
 
