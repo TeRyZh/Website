@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "PhD Condidate in ITS"
-  avatar           : "./images/profile.png"
+  avatar           : "profile.png"
   bio              : "Ability to work independently and within teams; Analyze, verify, and interpret using engineering principles "
   location         : "New Jersey"
   employer         :
