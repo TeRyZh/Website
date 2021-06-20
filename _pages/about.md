@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. candidate in Intelligent Transportation Systems (ITS) from Rutrgers University. My main research efforts involve traffic detection and sensing using computer vision techniques and LiDAR sensors. My dissertation topic is to develop a non-conventional vehicle detection and validation method for intelligent transportation applications. 
+I am a fifth-year Ph.D. candidate in Civil and Environmental Engineering from Rutrgers University. My main research efforts include cooperative and intelligent transportation applications. My dissertation topic is to develop a non-conventional vehicle detection and validation method for high-resolution trajectory collection using computer vision and LiDAR sensors. 
 
 I am looking for research scientist or Post-Doc position to continue the research of combining computer vision, machine learning with Connected and Automated technology to build safe, green and smart mobility applications.
 
