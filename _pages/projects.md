@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Projects"
+title: "Projects"
 permalink: /sitemap/
 author_profile: true
 redirect_from:
