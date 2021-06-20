@@ -15,8 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Publications
-------
 ### Journals
 * Tianya Zhang, Peter Jin, Brennan. T, McVeigh, K. Traffic Signal Performance Measurements Generated with Stop-Bar Detector and Shockwave Theory. *Journal of Transportation Engineering, Part A: Systems*, 2021. (in progress)
 * Tianya Zhang, Peter Jin, Spatial-Temporal Map Vehicle Trajectory Detection Using Dynamic Mode Decomposition and Res-UNet+ Neural Network, *IEEE Transaction on Intelligent Transportation System*, 2021. GitHub (Minor Revision) 
