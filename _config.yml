@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "PhD Condidate"
-  avatar           : "500x300.png"
-  bio              : "Ability to work independently and within teams; Analyze, verify, and interpret using engineering principles "
+  avatar           : "profile.png"
+  bio              : "Analyze, verify, and interpret using engineering principles "
   location         : "New Jersey"
   employer         :
   pubmed           : 
