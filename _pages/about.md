@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 I am a fifth-year Ph.D. candidate in Intelligent Transportation Systems (ITS) from Rutrgers University. During the last few years, my main research efforts involve traffic detection and sensing using computer vision techniques and LiDAR sensors. My dissertation topic is to develop a non-conventional vehicle detection and validation method for intelligent transportation applications. 
-AI-powered sensing and decision capability is taking place to shape the future infrastructure management, urban landscape, mobility service, traffic control, and legislations on traffic safety. I am looking for research scientist or Post-Doc position to continue the research of combining computer vision, machine learning with Connected and Automated technology to build safe, green and smart mobility applications.
+AI-powered sensing and decision capability is taking place to shape the future infrastructure management, urban landscape, mobility service, traffic control, and legislations on traffic safety. 
+
+I am looking for research scientist or Post-Doc position to continue the research of combining computer vision, machine learning with Connected and Automated technology to build safe, green and smart mobility applications.
 
 
 Research Aeras
