@@ -28,10 +28,7 @@ Work experience
 Skills
 ------
 * Programming Languages: Python, SQL, Java, MATLAB, C/C++, SAS, R, JavaScript
-* Certificates
-  * Deep Learning
-  * Robotics
-  * Data Mining
+* Certificates: Deep Learning, Robotics, Data Mining
  
 Awards
 ------
