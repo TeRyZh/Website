@@ -32,8 +32,7 @@ Skills
  
 Awards
 ------
-  * 2021 Fall Doctoral Academic Advancement Award, Rutgers University - New Brunswick
-  * 2021 Summer Doctoral Academic Advancement Award, Rutgers University - New Brunswick
+  * 2021 Doctoral Academic Advancement Award, Rutgers University - New Brunswick
   * 2020 Sweet Sixteen and Supplemental Categories High Value Research Projects, AASHTO
   * 2018 Outstanding Graduate Student Scholarship, ITS New Jersey
   * 2013 National Scholarship, Minister of Education, China
