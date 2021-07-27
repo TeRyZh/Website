@@ -18,7 +18,11 @@ Education
 
 Work experience
 ------
-* 09/2016 – now, Graduate Research Assistant, 
+* 2020 - Now, Teaching Assistant
+  * Department of Computer and Information Science
+  * University of Pennsylvania
+  * MCIT 595: Computer Systems Programming
+* 09/2016 – 11/2021, Graduate Research Assistant, 
   * Department of Civil and Environmental Engineering, 
   * Rutgers, The State University of New Jersey
   * Advisor: Jing Jin
