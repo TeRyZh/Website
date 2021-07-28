@@ -22,7 +22,7 @@ Work experience
   * Department of Computer and Information Science
   * University of Pennsylvania
   * Online MCIT Courses: 
-    * CIT 595: Computer Systems Programming; 
+    * CIT 595: Computer Systems Programming
     * CIT 596: Algorithms & Computation
 * 09/2016 – 11/2021, Graduate Research Assistant, 
   * Department of Civil and Environmental Engineering, 
