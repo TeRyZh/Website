@@ -21,7 +21,7 @@ Work experience
 * 2020 - Now, Teaching Assistant
   * Department of Computer and Information Science
   * University of Pennsylvania
-  * Courses: 
+  * Online MCIT Courses: 
     * CIT 595: Computer Systems Programming; 
     * CIT 596: Algorithms & Computation
 * 09/2016 – 11/2021, Graduate Research Assistant, 
