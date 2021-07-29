@@ -26,7 +26,7 @@ Work experience
 * 09/2016 – 11/2021, Graduate Research Assistant, 
   * Department of Civil and Environmental Engineering, 
   * Rutgers, The State University of New Jersey
-  * Advisor: Jing Jin
+  * Advisor: Jing Jin（Jerry)
 * 05/2017 - 08/2018 Intern, Digital China, 
   * Connected Vehicle Mobile App Algorithm Developer, 
 
