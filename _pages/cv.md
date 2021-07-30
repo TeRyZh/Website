@@ -23,7 +23,7 @@ Work experience
   * University of Pennsylvania
   * CIT 595: Computer Systems Programming
   * CIT 596: Algorithms & Computation
-* 09/2016 – 11/2021, Graduate Research Assistant, 
+* 09/2016 – 11/2021, Graduate Research Assistant
   * Department of Civil and Environmental Engineering, 
   * Rutgers, The State University of New Jersey
   * Advisor: Jing Jin
