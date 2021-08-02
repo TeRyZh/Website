@@ -17,7 +17,7 @@ author_profile: true
 
 ### Journals
 * Tianya Zhang, Peter Jin, Brennan. T, McVeigh, K. Traffic Signal Performance Measurements Generated with Stop-Bar Detector and Shockwave Theory. *Journal of Transportation Engineering, Part A: Systems*, 2021. (in progress)
-* Tianya Zhang, Peter Jin, Spatial-Temporal Map Vehicle Trajectory Detection Using Dynamic Mode Decomposition and Res-UNet+ Neural Network, *IEEE Transaction on Intelligent Transportation System*, 2021. [GitHub](https://github.com/TeRyZh/Reconstruction-NGSIM-Trajectory-with-DMD-and-Res_UNet_plus) (Minor Revision) 
+* Tianya Zhang, Peter Jin, Spatial-Temporal Map Vehicle Trajectory Detection Using Dynamic Mode Decomposition and Res-UNet+ Neural Network, *IEEE Transaction on Intelligent Transportation System*, 2021. (Minor Revision) [GitHub](https://github.com/TeRyZh/Reconstruction-NGSIM-Trajectory-with-DMD-and-Res_UNet_plus) 
 * Yi Ge, PJ Jin, Tianya Zhang, J Martinez. An Enhanced Spatial-Temporal Map-based Video Analytic Platform and its Local- versus Cloud-based Deployment with Regional 511 Camera Network. *Transportation Research Record*. 2021. (Accepted)
 * Tianya Zhang, Guo M, Jin PJ, Ge Y, Gong J. Longitudinal-Scanline-Based Arterial Traffic Video Analytics with Coordinate Transformation Assisted by 3D Infrastructure Data. *Transportation Research Record*. December 2020. 
 * Tianya Zhang, Peter J. Jin, A Longitudinal Scanline based Vehicle Trajectory Reconstruction Method for High-Angle Traffic Video, *Transportation Research: Part C*, 103, 104-128, June 2019.
