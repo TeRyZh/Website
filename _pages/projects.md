@@ -13,7 +13,8 @@ redirect_from:
   * Exploited LiDAR and camera sensor integration for traffic detection. 
 
 ### 11/2019 – Now, Real-Time Traffic Signal System Performance Measurement Phase II, New Jersey DOT
-  * Functionality enhancement and large-scale development of connected vehicle devices and ATSPMs
+  * Writing Proposal, Quarterly Report, and Organizting Weekly Meeting
+  * Functionality enhancement and development of connected vehicle devices and ATSPMs
   * Developed new performance measures using stop-bar detector and traffic flow theory.
 
 ### 12/2017 - 5/2019, Real-Time Traffic Signal Performance Measurement Phase Ⅰ, New Jersey DOT
