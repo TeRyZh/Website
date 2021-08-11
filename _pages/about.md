@@ -15,11 +15,10 @@ I am looking for research scientist or postdoc position to continue the work of 
 Research Aeras
 ======
 ### Transportation AI and Data Science
-The application of computer vision, LiDAR, and remote sensing to collect high-resolution data to enable research and innovations. Advanced machine learning for traffic modeling, control and prediction.
+Applying computer vision, LiDAR, and drone-based remote sensing to collect high-resolution data for research and innovations. Scientific machine learning for traffic modeling, control and prediction.
 
 ### Robotics with Mobility Applications
 Connected and Automated Vehicle and Highway, Smart Mobility and Operational Design, and Wireless Communications & IoT.
 
 ### Arterial Management and Operations
 Automated Traffic Signal Performance Measures (ATSPMs), Adaptive Signal Control Technology (ASCT) and Traffic Flow Theory. 
-
