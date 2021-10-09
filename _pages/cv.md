@@ -37,7 +37,7 @@ Skills
  
 Awards
 ------
-  * 2021 Transportation Studies Award, Bloustein School of Planning and Public Policy and Schoold of Engineering, Rutgers University
+  * 2021 Transportation Studies Award, Bloustein School of Planning and Public Policy & Schoold of Engineering
   * 2021 Doctoral Academic Advancement Award, Rutgers University - New Brunswick
   * 2020 Sweet Sixteen and Supplemental Categories High Value Research Projects, AASHTO
   * 2018 Outstanding Graduate Student Scholarship, ITS New Jersey
