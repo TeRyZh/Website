@@ -24,6 +24,8 @@ author_profile: true
 * Tianya Zhang, Peter J. Jin, A Longitudinal Scanline based Vehicle Trajectory Reconstruction Method for High-Angle Traffic Video, *Transportation Research: Part C*, 103, 104-128, June 2019.
 
 ### Conferences
+* •	Tianya Zhang, Peter Jin, Brennan. T, McVeigh, K. Traffic Signal Performance Measurements Generated with Stop-Bar Detector and Shockwave Theory. TRB 101st Annual Meeting, Washington, D.C., January 2022. (Accepted)
+•	Tianya Zhang, Peter Jin, Yi Ge, Ryhan Moghe, Xiaowen Jiang, Ph.D. Vehicle Detection for 511 Traffic Cameras with U-Shaped Dual Attention Inception Neural Networks and Spatial-Temporal Map. TRB 101st Annual Meeting, Washington, D.C., January 2022.  (Accepted)
 * Y Ge, PJ Jin, T Zhang, J Martinez. Cloud-versus Server-based Virtual Sensor Network based on 511 Traffic Video Streams: An Experiment with an Enhanced Spatial-Temporal-Map based Platform. TRB 100th Annual Meeting, Washington, D.C., January 2021.
 * Tianya Zhang, Peter Jin, McVeigh, K., Brennan, T. and Jalayer, M, Automating the Traffic Signal Performance Measures for Adaptive Traffic Signal Control System. TRB 100th Annual Meeting, Washington, D.C., January 2021.
 * Tianya Zhang, Guo M, Jin PJ, Ge Y, Gong J. Longitudinal-Scanline-Based Arterial Traffic Video Analytics with Coordinate Transformation Assisted by 3D Infrastructure Data. TRB 99th Annual Meeting, Washington, D.C., January 2020. 
