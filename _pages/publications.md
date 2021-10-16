@@ -32,7 +32,7 @@ author_profile: true
 * Tianya Zhang, Burris M, Jin PJ. Empirical Study of the Variation of Value of Travel Time and Reliability. TRB 96th Annual Meeting, Washington, D.C., January 2017.
 * Tianya Zhang, & Ding, Limin. Traffic Safety Study Based on Harmonic Theory. In International Conference on Transportation and Traffic Engineering 2013: Safety, Speediness, Intelligence, Low-Carbon, Innovation (pp. 600-606). 
 * Tianya Zhang and Wang J. Human Reliability Analysis of Traffic Safety. Proceedings of the 13th International Conference on Man-Machine-Environment System Engineering, Springer. 
-* Ding, Limin and Tianya Zhang. Principle on Traffic Management (in Chinese). [In Preceding of Fifth China’s International Road Traffic Safety Forum](http://www.rtsac.org/Html/2013_10_24/2_1916_2013_10_24_7322.html). 2013, Beijing. (2nd Prize Paper Award) 
+* Ding, Limin and Tianya Zhang. Principle on Traffic Management (in Chinese). In Preceding of Fifth China’s International Road Traffic Safety Forum. 2013, Beijing. (2nd Prize Paper Award) 
 
 ### Reports
 * Peter J. Jin, Mohsen Jafari, Yufei Huang, Yizhou Wang, Tianya Zhang, New Brunswick Smart Hub: Infrastructure & Mobility Innovation Testing Ground, Concept Report, New Jersey Economic Development Authority (NJEDA), Final Report, November 2019.
