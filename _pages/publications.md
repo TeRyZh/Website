@@ -22,6 +22,9 @@ author_profile: true
 * Yi Ge, PJ Jin, Tianya Zhang, J Martinez. Enhanced Spatial–Temporal Map-Based Video Analytic Platform and Its Local- Versus Cloud-Based Deployment with Regional 511 Camera Network. *Transportation Research Record*. August 2021.
 * Tianya Zhang, Guo M, Jin PJ, Ge Y, Gong J. Longitudinal-Scanline-Based Arterial Traffic Video Analytics with Coordinate Transformation Assisted by 3D Infrastructure Data. *Transportation Research Record*. December 2020. 
 * Tianya Zhang, Peter J. Jin, A Longitudinal Scanline based Vehicle Trajectory Reconstruction Method for High-Angle Traffic Video, *Transportation Research: Part C*, 103, 104-128, June 2019.
+* Shuai Ma, Limin Ding, Tianya Zhang, Mingmin Wang, Evaluation of Traffic Safety Based on the Concept of Harmony.Journal of People’s Public Security University of China (Science and Technology). (2016):64-70. (in Chinese)
+* Limin Ding, Tianya Zhang, On Principle of Traffic Management. Journal of People’s Public Security University of China (Science and Technology). 2013, 19(003):31-35. (in Chinese)
+
 
 ### Conferences
 * Tianya Zhang, Peter Jin, Brennan. T, McVeigh, K. Traffic Signal Performance Measurements Generated with Stop-Bar Detector and Shockwave Theory. TRB 101st Annual Meeting, Washington, D.C., January 2022. (Accepted)
