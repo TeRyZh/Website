@@ -23,7 +23,7 @@ author_profile: true
 * Tianya Zhang, Guo M, Jin PJ, Ge Y, Gong J. Longitudinal-Scanline-Based Arterial Traffic Video Analytics with Coordinate Transformation Assisted by 3D Infrastructure Data. *Transportation Research Record*. December 2020. 
 * Tianya Zhang, Peter J. Jin, A Longitudinal Scanline based Vehicle Trajectory Reconstruction Method for High-Angle Traffic Video, *Transportation Research: Part C*, 103, 104-128, June 2019.
 * Shuai Ma, Limin Ding, Tianya Zhang, Mingmin Wang, Evaluation of Traffic Safety Based on the Concept of Harmony.Journal of People’s Public Security University of China (Science and Technology). (2016):64-70. (in [Chinese Journal](http://www.cnki.com.cn/Article/CJFDTotal-GOAN201602015.htm)) 
-* Limin Ding, Tianya Zhang, Principle of Traffic Management. Journal of People’s Public Security University of China (Science and Technology). 2013, 19(003):31-35. (in [Chinese Journal]((http://www.cnki.com.cn/Article/CJFDTotal-GOAN201303007.htm)))
+* Limin Ding, Tianya Zhang, Principle of Traffic Management. Journal of People’s Public Security University of China (Science and Technology). 2013, 19(003):31-35. (in [Chinese Journal](http://www.cnki.com.cn/Article/CJFDTotal-GOAN201303007.htm))
 
 
 ### Conferences
