@@ -22,8 +22,8 @@ author_profile: true
 * Yi Ge, PJ Jin, Tianya Zhang, J Martinez. Enhanced Spatial–Temporal Map-Based Video Analytic Platform and Its Local- Versus Cloud-Based Deployment with Regional 511 Camera Network. *Transportation Research Record*. August 2021.
 * Tianya Zhang, Guo M, Jin PJ, Ge Y, Gong J. Longitudinal-Scanline-Based Arterial Traffic Video Analytics with Coordinate Transformation Assisted by 3D Infrastructure Data. *Transportation Research Record*. December 2020. 
 * Tianya Zhang, Peter J. Jin, A Longitudinal Scanline based Vehicle Trajectory Reconstruction Method for High-Angle Traffic Video, *Transportation Research: Part C*, 103, 104-128, June 2019.
-* Shuai Ma, Limin Ding, Tianya Zhang, Mingmin Wang, Evaluation of Traffic Safety Based on the Concept of Harmony.Journal of People’s Public Security University of China (Science and Technology). (2016):64-70. (in Chinese) 
-* Limin Ding, Tianya Zhang, Principle of Traffic Management. Journal of People’s Public Security University of China (Science and Technology). 2013, 19(003):31-35. (in Chinese)
+* Shuai Ma, Limin Ding, Tianya Zhang, Mingmin Wang, Evaluation of Traffic Safety Based on the Concept of Harmony.Journal of People’s Public Security University of China (Science and Technology). (2016):64-70. (in [Chinese Journal](http://www.cnki.com.cn/Article/CJFDTotal-GOAN201602015.htm)) 
+* Limin Ding, Tianya Zhang, Principle of Traffic Management. Journal of People’s Public Security University of China (Science and Technology). 2013, 19(003):31-35. (in [Chinese Journal]((http://www.cnki.com.cn/Article/CJFDTotal-GOAN201303007.htm)))
 
 
 ### Conferences
@@ -33,7 +33,7 @@ author_profile: true
 * Tianya Zhang, Peter Jin, McVeigh, K., Brennan, T. and Jalayer, M, Automating the Traffic Signal Performance Measures for Adaptive Traffic Signal Control System. TRB 100th Annual Meeting, Washington, D.C., January 2021.
 * Tianya Zhang, Guo M, Jin PJ, Ge Y, Gong J. Longitudinal-Scanline-Based Arterial Traffic Video Analytics with Coordinate Transformation Assisted by 3D Infrastructure Data. TRB 99th Annual Meeting, Washington, D.C., January 2020. 
 * Tianya Zhang, Burris M, Jin PJ. Empirical Study of the Variation of Value of Travel Time and Reliability. TRB 96th Annual Meeting, Washington, D.C., January 2017.
-* Tianya Zhang, & Ding, Limin. Traffic Safety Study Based on Harmonic Theory. In International Conference on Transportation and Traffic Engineering 2013: Safety, Speediness, Intelligence, Low-Carbon, Innovation (pp. 600-606). 
+* Tianya Zhang, & Ding, Limin. Traffic Safety Study Based on Harmony (HeXie) Theory. In International Conference on Transportation and Traffic Engineering 2013: Safety, Speediness, Intelligence, Low-Carbon, Innovation (pp. 600-606). 
 * Tianya Zhang and Wang J. Human Reliability Analysis of Traffic Safety. Proceedings of the 13th International Conference on Man-Machine-Environment System Engineering, Springer. 
 
 
