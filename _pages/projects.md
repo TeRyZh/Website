@@ -14,7 +14,7 @@ redirect_from:
 
 ### 11/2019 – Now, [Real-Time Traffic Signal System Performance Measurement Phase II](https://www.njdottechtransfer.net/2021/07/01/njdot-tech-talk-automating-traffic-signal-performance-measures-for-njdot-adaptive-traffic-signal-control-systems/), New Jersey DOT
   * Writing Proposal, Quarterly Report, and Organizting Weekly Meeting
-  * Functionality enhancement and development of connected vehicle devices and ATSPMs
+  * Functionality enhancement and Testing of connected vehicle devices and ATSPMs
   * Developed new performance measures using stop-bar detector and traffic flow theory.
 
 ### 12/2017 - 5/2019, [Real-Time Traffic Signal Performance Measurement Phase Ⅰ](https://research.transportation.org/wp-content/uploads/sites/31/2021/01/NJDOT_RTSPM_Generic_FACT_SHEET_Final_Sweet16_Figs.pdf), New Jersey DOT
