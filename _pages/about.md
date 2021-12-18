@@ -23,7 +23,7 @@ Applying computer vision, LiDAR, and drone-based remote sensing to collect high-
 ### Robotics with Mobility Applications
 Connected and Automated Vehicle and Highway, Smart Mobility and Operational Design, and Wireless Communications & IoT.
 
-<img src="https://github.com/TeRyZh/Website/blob/main/images/Detection%20and%20Tracking_small.png" width="6400" height="600">
+<img src="https://github.com/TeRyZh/Website/blob/main/images/Detection%20and%20Tracking_small.png" width="900" height="600">
 
 ### Arterial Management and Operations
 Automated Traffic Signal Performance Measures (ATSPMs), Adaptive Signal Control Technology (ASCT) and Traffic Flow Theory. 
