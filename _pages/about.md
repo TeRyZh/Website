@@ -16,16 +16,20 @@ Research Interests
 ======
 ### Transportation AI and Data Science
 Applying computer vision, LiDAR, and drone-based remote sensing to collect high-resolution data for research and innovations. Scientific machine learning for traffic modeling, control and prediction.
-![](https://github.com/TeRyZh/Website/blob/main/images/NGSIM_Detection.gif)
+
 ![](https://github.com/TeRyZh/Website/blob/main/images/Picture1.gif)
 
 ### Robotics with Mobility Applications
 Connected and Automated Vehicle and Highway, Smart Mobility and Operational Design, and Wireless Communications & IoT.
+
 ![LiDAR Object Detection](https://github.com/TeRyZh/Website/blob/main/images/Detection%20and%20Tracking_small.png)
 
 
 ### Arterial Management and Operations
 Automated Traffic Signal Performance Measures (ATSPMs), Adaptive Signal Control Technology (ASCT) and Traffic Flow Theory. 
+
 ![Shockwave Theory](https://github.com/TeRyZh/Website/blob/main/images/STMap%20Measurements%20Scale.png)
+
 ![Performance Measurement: Rutgers Coordination Diagram](https://github.com/TeRyZh/Website/blob/main/images/RCD.png)
+
 ![Purdue Coordination Diagram](https://github.com/TeRyZh/Website/blob/main/images/Ground_Truth.png)
