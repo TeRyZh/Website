@@ -16,12 +16,12 @@ Research Interests
 ======
 ### Transportation AI and Data Science
 Applying computer vision, LiDAR, and drone-based remote sensing to collect high-resolution data for research and innovations. Scientific machine learning for traffic modeling, control and prediction.
-![](https://ars.els-cdn.com/content/image/1-s2.0-S0968090X18312440-mmc3.gif)
+![](https://github.com/TeRyZh/Website/blob/main/images/NGSIM_Detection.gif)
 ![](https://github.com/TeRyZh/Website/blob/main/images/Picture1.gif)
 
 ### Robotics with Mobility Applications
 Connected and Automated Vehicle and Highway, Smart Mobility and Operational Design, and Wireless Communications & IoT.
-![LiDAR Object Detection](https://github.com/TeRyZh/Website/blob/main/images/QueueLengthMeasurement.png)
+![LiDAR Object Detection](https://github.com/TeRyZh/Website/blob/main/images/Detection%20and%20Tracking_small.png)
 
 
 ### Arterial Management and Operations
