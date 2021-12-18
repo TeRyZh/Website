@@ -22,14 +22,16 @@ Applying computer vision, LiDAR, and drone-based remote sensing to collect high-
 ### Robotics with Mobility Applications
 Connected and Automated Vehicle and Highway, Smart Mobility and Operational Design, and Wireless Communications & IoT.
 
-![LiDAR Object Detection](https://github.com/TeRyZh/Website/blob/main/images/Detection%20and%20Tracking_small.png =300x300)
-
+![LiDAR Object Detection](https://github.com/TeRyZh/Website/blob/main/images/Detection%20and%20Tracking_small.png)
+<img src="https://github.com/TeRyZh/Website/blob/main/images/Detection%20and%20Tracking_small.png" width="300" height="300" />
 
 ### Arterial Management and Operations
 Automated Traffic Signal Performance Measures (ATSPMs), Adaptive Signal Control Technology (ASCT) and Traffic Flow Theory. 
 
-![Shockwave Theory](https://github.com/TeRyZh/Website/blob/main/images/STMap%20Measurements%20Scale.png = 200x200)
+![Shockwave Theory](https://github.com/TeRyZh/Website/blob/main/images/STMap%20Measurements%20Scale.png)
 
-![Performance Measurement: Rutgers Coordination Diagram](https://github.com/TeRyZh/Website/blob/main/images/RCD.png = 200x200)
+![Performance Measurement: Rutgers Coordination Diagram](https://github.com/TeRyZh/Website/blob/main/images/RCD.png)
+<img src="https://github.com/TeRyZh/Website/blob/main/images/RCD.png" width="150" height="150" />
 
 ![Purdue Coordination Diagram](https://github.com/TeRyZh/Website/blob/main/images/Ground_Truth.png = 200x200)
+<img src="https://github.com/TeRyZh/Website/blob/main/images/RCD.png" width="150" height="150" />
