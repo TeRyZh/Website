@@ -60,7 +60,7 @@ Automated Traffic Signal Performance Measures (ATSPMs), Adaptive Signal Control 
             <img src="https://github.com/TeRyZh/Website/blob/main/images/STMap%20Measurements%20Scale.png" alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="https://github.com/TeRyZh/Website/blob/main/images/Ground_Truth.png" alt="Slide 6" />
+            <img src="https://github.com/TeRyZh/Website/blob/main/images/PCD_comparison.png" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
