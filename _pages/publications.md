@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ### Journals
-* Tianya Zhang, Peter Jin. Roadside LiDAR Vehicle Detection and Tracking Using Range and Intensity Background Subtraction. 
+* Tianya Zhang, Peter Jin. Roadside LiDAR Vehicle Detection and Tracking Using Range and Intensity Background Subtraction. (Under Review) 
 <a href="https://github.com/TeRyZh/Roadside-LiDAR-Vehicle-Detection-and-Tracking-Background-Subtraction"><i class='fab fa-github'></i> Github </a>
 * Tianya Zhang, Peter Jin, Brennan. T, McVeigh, K. Arterial Vehicle Trajectory Reconstruction Based on Stop-Bar Video Sensor for Automated Traffic Signal Performance Measures (ATSPMs). 2022. (Accept by TRBAM in Revision for Journal)
 * Tianya Zhang, Peter Jin, Yi Ge, Ryhan Moghe, Xiaowen Jiang. Vehicle Detection and Tracking for 511 Traffic Cameras with U-Shaped Dual Attention Inception Neural Networks and Spatial-Temporal Map. Transportation Reserach Record. (Accepted) 
