@@ -23,9 +23,19 @@ Connected and Automated Vehicle and Highway, Smart Mobility and Operational Desi
 ### Arterial Management and Operations
 Automated Traffic Signal Performance Measures (ATSPMs), Adaptive Signal Control Technology (ASCT) and Traffic Flow Theory. 
 
+_Figure 1. 511 Advanced Traveler Information System_
 <img src="{{ site.url }}{{ site.baseurl }}/images/Picture1.png">
-<img src="{{ site.url }}{{ site.baseurl }}/images/RCD.png" width="600" height="500"> 
+
+
+_Figure 2. Signal Stopbar Coordination Diagram_
+<img src="{{ site.url }}{{ site.baseurl }}/images/RCD.png" width="400" height="300"> 
+
+
+_Figure 3. Road LiDAR Vehicle Detection and Tracking_
 <img src="{{ site.url }}{{ site.baseurl }}/images/Detection%20and%20Tracking_small.png" width="600" height="400">
-<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/PCD_comparison.png"> -->
+
+_Figure 4. Advanced Coordination Diagram_
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/PCD_comparison.png">
        
 
