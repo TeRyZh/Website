@@ -17,19 +17,15 @@ Research Interests
 ### Transportation AI and Data Science
 Applying computer vision, LiDAR, and drone-based remote sensing to collect high-resolution data for research and innovations. Scientific machine learning for traffic modeling, control and prediction.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Picture1.png">
-
-
 ### Robotics with Mobility Applications
 Connected and Automated Vehicle and Highway, Smart Mobility and Operational Design, and Wireless Communications & IoT.
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/Detection%20and%20Tracking_small.png" width="900" height="600">
 
 ### Arterial Management and Operations
 Automated Traffic Signal Performance Measures (ATSPMs), Adaptive Signal Control Technology (ASCT) and Traffic Flow Theory. 
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/Picture1.png">
 <img src="{{ site.url }}{{ site.baseurl }}/images/RCD.png" width="600" height="500"> 
-
+<img src="{{ site.url }}{{ site.baseurl }}/images/Detection%20and%20Tracking_small.png" width="600" height="400">
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/PCD_comparison.png"> -->
        
 
