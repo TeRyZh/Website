@@ -17,7 +17,7 @@ Research Interests
 ### Transportation AI and Data Science
 Applying computer vision, LiDAR, and drone-based remote sensing to collect high-resolution data for research and innovations. Scientific machine learning for traffic modeling, control and prediction.
 
-<img src="{{ site.url }}{{ site.baseurl }}/Picture1.png">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Picture1.png">
 
 
 ### Robotics with Mobility Applications
