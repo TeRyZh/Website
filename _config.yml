@@ -11,8 +11,8 @@ title                    : "Tianya T. Zhang"
 title_separator          : "-"
 name                     : &name "Tianya Zhang"
 description              : &description "PhD Candidate"
-url                      : https://teryzh.github.io/Website/  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://teryzh.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/Website" # the subpath of your site, e.g. "/blog"
 repository               : "TeRyZh"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "in/tianya-t-zhang-461912137/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "tianya-t-zhang-461912137"
+  orcid            : #"http://orcid.org/0000-0002-7606-9886"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
