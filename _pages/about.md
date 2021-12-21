@@ -25,23 +25,25 @@ Automated Traffic Signal Performance Measures (ATSPMs), Adaptive Signal Control 
 
 _Figure 1. 511 Advanced Traveler Information System_
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Picture1.png">
-
-
-_Figure 2. Signal Stopbar Coordination Diagram_
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/RCD.png" width="400" height="300"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/Picture1.png" width="600" height="400">
 
 
 
-_Figure 3. Road LiDAR Vehicle Detection and Tracking_
+_Figure 2. Stopbar Coordination Diagram_
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/RCD.png" width="600" height="400"> 
+
+
+
+_Figure 3. Roadside LiDAR Vehicle Detection and Tracking_
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/Detection%20and%20Tracking_small.png" width="600" height="400">
 
 
+<!-- 
 
 _Figure 4. Advanced Coordination Diagram_
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/PCD_comparison.png">
+<img src="{{ site.url }}{{ site.baseurl }}/images/PCD_comparison.png"> -->
        
 
