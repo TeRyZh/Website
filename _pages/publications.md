@@ -16,15 +16,22 @@ author_profile: true
 {% endfor %} -->
 
 ### Journals
-* Tianya Zhang, Peter Jin. Roadside LiDAR Vehicle Detection and Tracking Using Range and Intensity Background Subtraction. (Under Review) <a href="https://github.com/TeRyZh/Roadside-LiDAR-Vehicle-Detection-and-Tracking-Background-Subtraction"><i class='fab fa-github'></i> Github </a>
+* Tianya Zhang, Peter Jin. Roadside LiDAR Vehicle Detection and Tracking Using Range and Intensity Background Subtraction. (Under Review) 
+<a href="https://github.com/TeRyZh/Roadside-LiDAR-Vehicle-Detection-and-Tracking-Background-Subtraction"><i class='fab fa-github'></i> Github </a>
 * Tianya Zhang, Peter Jin, Brennan. T, McVeigh, K. Arterial Vehicle Trajectory Reconstruction Based on Stop-Bar Video Sensor for Automated Traffic Signal Performance Measures (ATSPMs). 2022. (Accept by TRBAM in Revision for Journal)
-* Tianya Zhang, Peter Jin, Yi Ge, Ryhan Moghe, Xiaowen Jiang. Vehicle Detection and Tracking for 511 Traffic Cameras with U-Shaped Dual Attention Inception Neural Networks and Spatial-Temporal Map. Transportation Reserach Record. (Accepted) <a href="https://github.com/TeRyZh/Detection-is-Tracking-511-CCTV-Camera-Vehicle-Detection-Using-STMap-and-DAIU-Net"><i class='fab fa-github'></i> Github </a>
+* Tianya Zhang, Peter Jin, Yi Ge, Ryhan Moghe, Xiaowen Jiang. Vehicle Detection and Tracking for 511 Traffic Cameras with U-Shaped Dual Attention Inception Neural Networks and Spatial-Temporal Map. Transportation Reserach Record. (Accepted) 
+<a href="https://github.com/TeRyZh/Detection-is-Tracking-511-CCTV-Camera-Vehicle-Detection-Using-STMap-and-DAIU-Net"><i class='fab fa-github'></i> Github </a>
 * Tianya Zhang, Peter Jin, Spatial-Temporal Map Vehicle Trajectory Detection Using Dynamic Mode Decomposition and Res-UNet+ Neural Network, *IEEE Transaction on Intelligent Transportation System*, 2021. (Accepted) <a href="https://github.com/TeRyZh/Reconstruction-NGSIM-Trajectory-with-DMD-and-Res_UNet_plus"><i class='fab fa-github'></i> Github </a> 
 * Yi Ge, PJ Jin, Tianya Zhang, J Martinez. Enhanced Spatial–Temporal Map-Based Video Analytic Platform and Its Local- Versus Cloud-Based Deployment with Regional 511 Camera Network. *Transportation Research Record*. August 2021.
+<a href="https://journals.sagepub.com/doi/full/10.1177/03611981211036377"><i class='fa fa-book'></i> Paper</a>
 * Tianya Zhang, Guo M, Jin PJ, Ge Y, Gong J. Longitudinal-Scanline-Based Arterial Traffic Video Analytics with Coordinate Transformation Assisted by 3D Infrastructure Data. *Transportation Research Record*. December 2020. 
+<a href="https://journals.sagepub.com/doi/10.1177/0361198120971257"><i class='fa fa-book'></i> Paper</a>
 * Tianya Zhang, Peter J. Jin, A Longitudinal Scanline based Vehicle Trajectory Reconstruction Method for High-Angle Traffic Video, *Transportation Research: Part C*, 103, 104-128, June 2019.
-* Shuai Ma, Limin Ding, Tianya Zhang, Mingmin Wang, Evaluation of Traffic Safety Based on the Concept of Harmony.Journal of People’s Public Security University of China (Science and Technology). (2016):64-70. (in [Chinese Journal](http://www.cnki.com.cn/Article/CJFDTotal-GOAN201602015.htm)) 
-* Limin Ding, Tianya Zhang, Principle of Traffic Congestion Management. Journal of People’s Public Security University of China (Science and Technology). 2013, 19(003):31-35. (in [Chinese Journal](http://www.cnki.com.cn/Article/CJFDTotal-GOAN201303007.htm))
+<a href="https://www.sciencedirect.com/science/article/pii/S0968090X18312440"><i class='fa fa-book'></i> Paper</a>
+* Shuai Ma, Limin Ding, Tianya Zhang, Mingmin Wang, Evaluation of Traffic Safety Based on the Concept of Harmony.Journal of People’s Public Security University of China (Science and Technology). (2016):64-70. 
+<a href="http://www.cnki.com.cn/Article/CJFDTotal-GOAN201602015.htm"><i class='fa fa-book'></i> Paper</a>
+* Limin Ding, Tianya Zhang, Principle of Traffic Congestion Management. Journal of People’s Public Security University of China (Science and Technology). 2013, 19(003):31-35.
+<a href="http://www.cnki.com.cn/Article/CJFDTotal-GOAN201303007.htm"><i class='fa fa-book'></i> Paper</a>
 
 
 ### Conferences
