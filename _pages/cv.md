@@ -21,7 +21,6 @@ Work experience
 * 2021 Fall, Graduate Teaching Assistant
   * Department of Computer and Information Science
   * University of Pennsylvania
-  * CIT 595: Computer Systems Programming
   * CIT 596: Algorithms & Computation
 * 09/2016 – 11/2021, Graduate Research Assistant
   * Department of Civil and Environmental Engineering, 
