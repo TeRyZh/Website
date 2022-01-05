@@ -2,7 +2,7 @@
 title: "Vehicle Detection for 511 Traffic Cameras with U-shaped Dual Attention Inception Neural Networks and Spatial-temporal Map"  
 collection: talks
 type: "Conference Presentation"
-permalink: /talks/2022 101st TRB Annual Meeting
+permalink: /talks/01-10-2022 TRB Presentation
 venue: "TRB Session 1038: New Solutions to Traffic Monitoring Challenges "
 date: Monday 1/10/2022
 location: "Washington DC, USA"
