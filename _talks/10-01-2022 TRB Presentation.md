@@ -4,7 +4,7 @@ collection: talks
 type: "Conference Presentation"
 permalink: /talks/01-10-2022 TRB Presentation
 venue: "TRB Session 1038: New Solutions to Traffic Monitoring Challenges "
-date: Monday 10/01/2022
+date: 2022-01-10
 location: "Washington DC, USA"
 ---
 
