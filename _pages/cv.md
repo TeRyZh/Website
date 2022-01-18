@@ -24,11 +24,13 @@ Work experience
   * CIT 595: Computer Systems Programming
   * CIT 596: Algorithms & Computation
 * 09/2016 – 11/2021, Graduate Research Assistant
-  * Department of Civil and Environmental Engineering, 
+  * Department of Civil and Environmental Engineering
   * Rutgers, The State University of New Jersey
   * Advisor: Jing Jin
 * 05/2017 - 08/2018 Intern, Digital China, 
   * Connected Vehicle Mobile App Algorithm Developer, 
+* 09/2011 - 05/2014, People's Public Security University of China
+  * Department of Traffic Management Engineering
 
 Skills
 ------
