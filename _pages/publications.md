@@ -18,6 +18,7 @@ author_profile: true
 ### Journals
 * Tianya Zhang, Ying Ye, Yu Kathy Zhang. Big Data Application for Network Level Travel Time Prediction. (Under Review)
 <a href="https://github.com/TeRyZh/Big-Data-Application-for-Network-Level-Travel-Time-Prediction"><i class='fab fa-github'></i> Github </a>
+<a href="https://arxiv.org/abs/2201.05760"><i class='fa fa-book'></i> Paper</a>
 * Tianya Zhang, Peter Jin. Roadside LiDAR Vehicle Detection and Tracking Using Range and Intensity Background Subtraction. (Under Review) 
 <a href="https://github.com/TeRyZh/Roadside-LiDAR-Vehicle-Detection-and-Tracking-Background-Subtraction"><i class='fab fa-github'></i> Github </a>
 <a href="https://arxiv.org/abs/2201.04756"><i class='fa fa-book'></i> Paper</a>
