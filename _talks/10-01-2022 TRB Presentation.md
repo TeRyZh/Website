@@ -1,5 +1,5 @@
 ---
-title: "Vehicle Detection for 511 Traffic Cameras with U-shaped Dual Attention Inception Neural Networks and Spatial-temporal Map"  
+title: "New Solutions to Traffic Monitoring Challenges"  
 collection: talks
 type: "Conference Presentation"
 permalink: /talks/01-10-2022 TRB Presentation
