@@ -44,7 +44,7 @@ author_profile: true
 * Tianya Zhang, Peter Jin, McVeigh, K., Brennan, T. and Jalayer, M, Automating the Traffic Signal Performance Measures for Adaptive Traffic Signal Control System. TRB 100th Annual Meeting, Washington, D.C., January 2021.
 * Tianya Zhang, Burris M, Jin PJ. Empirical Study of the Variation of Value of Travel Time and Reliability. TRB 96th Annual Meeting, Washington, D.C., January 2017.
 * Tianya Zhang, & Ding, Limin. Traffic Safety Study Based on Harmony (HeXie) Theory. In International Conference on Transportation and Traffic Engineering 2013: Safety, Speediness, Intelligence, Low-Carbon, Innovation (pp. 600-606). 
-* Tianya Zhang and Wang J. Human Reliability Analysis of Traffic Safety. Proceedings of the 13th International Conference on Man-Machine-Environment System Engineering, Springer. 
+* Tianya Zhang and Wang J. Human Reliability Analysis of Traffic Safety. Proceedings of the 13th International Conference on Man-Machine-Environment System Engineering, Springer. (pp 491-498)
 * Tianya Zhang, Limin Ding, Harmony Degree Analysis and Evaluation of Traffic Safety. Transactions of Beijing Institute of Technology, Vol.33 Suppl.1 Nov.2013. 
 
 ### Reports
