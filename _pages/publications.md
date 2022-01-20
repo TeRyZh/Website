@@ -16,10 +16,10 @@ author_profile: true
 {% endfor %} -->
 
 ### Journals
-* Tianya Zhang, Ying Ye, Yu Kathy Zhang. Big Data Application for Network Level Travel Time Prediction.
+* Tianya Zhang, Ying Ye, Yu Kathy Zhang. Big Data Application for Network Level Travel Time Prediction. arXiv:2201.05760.
 <a href="https://github.com/TeRyZh/Big-Data-Application-for-Network-Level-Travel-Time-Prediction"><i class='fab fa-github'></i> Github </a>
 <a href="https://arxiv.org/abs/2201.05760"><i class='fa fa-book'></i> Paper</a>
-* Tianya Zhang, Peter Jin. Roadside LiDAR Vehicle Detection and Tracking Using Range and Intensity Background Subtraction.
+* Tianya Zhang, Peter Jin. Roadside LiDAR Vehicle Detection and Tracking Using Range and Intensity Background Subtraction. arXiv:2201.04756.
 <a href="https://github.com/TeRyZh/Roadside-LiDAR-Vehicle-Detection-and-Tracking-Background-Subtraction"><i class='fab fa-github'></i> Github </a>
 <a href="https://arxiv.org/abs/2201.04756"><i class='fa fa-book'></i> Paper</a>
 * Tianya Zhang, Peter Jin, Brennan. T, McVeigh, K. Arterial Vehicle Trajectory Reconstruction Based on Stop-Bar Video Sensor for Automated Traffic Signal Performance Measures (ATSPMs). 2022. (Accept by TRBAM in Revision for Journal)
