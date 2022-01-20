@@ -43,11 +43,9 @@ author_profile: true
 ### Conferences
 * Y Ge, PJ Jin, T Zhang, J Martinez. Cloud-versus Server-based Virtual Sensor Network based on 511 Traffic Video Streams: An Experiment with an Enhanced Spatial-Temporal-Map based Platform. TRB 100th Annual Meeting, Washington, D.C., January 2021.
 * Tianya Zhang, Peter Jin, McVeigh, K., Brennan, T. and Jalayer, M, Automating the Traffic Signal Performance Measures for Adaptive Traffic Signal Control System. TRB 100th Annual Meeting, Washington, D.C., January 2021.
-* Tianya Zhang, Guo M, Jin PJ, Ge Y, Gong J. Longitudinal-Scanline-Based Arterial Traffic Video Analytics with Coordinate Transformation Assisted by 3D Infrastructure Data. TRB 99th Annual Meeting, Washington, D.C., January 2020. 
 * Tianya Zhang, Burris M, Jin PJ. Empirical Study of the Variation of Value of Travel Time and Reliability. TRB 96th Annual Meeting, Washington, D.C., January 2017.
 * Tianya Zhang, & Ding, Limin. Traffic Safety Study Based on Harmony (HeXie) Theory. In International Conference on Transportation and Traffic Engineering 2013: Safety, Speediness, Intelligence, Low-Carbon, Innovation (pp. 600-606). 
 * Tianya Zhang and Wang J. Human Reliability Analysis of Traffic Safety. Proceedings of the 13th International Conference on Man-Machine-Environment System Engineering, Springer. 
-
 
 ### Reports
 * Peter J. Jin, Mohsen Jafari, Yufei Huang, Yizhou Wang, Tianya Zhang, New Brunswick Smart Hub: Infrastructure & Mobility Innovation Testing Ground, Concept Report, New Jersey Economic Development Authority (NJEDA), Final Report, November 2019.
