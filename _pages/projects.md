@@ -23,7 +23,7 @@ redirect_from:
 
 ### 08/2019 – 08/2020, The Vehicle-Infrastructure Miniature and Virtualization Platform for Connected and Automated Mobility System, iFlytek. Inc
   * Develop a roadside traffic detection and tracking algorithm and implement it into a miniature connected automated car platform.
-  * Demonstrated on Rutgers Day and K12 School STEM Day
+  * Demonstrated on Rutgers Day and K-12 School STEM Day
 
 ###  01/2017 - 09/2018, Cloud Computing Based Traffic Video Data Analytics, CAIT-UTC
   * Developed computer vision algorithm for NJ511 CCTV traffic camera
