@@ -12,7 +12,7 @@ redirect_from:
   * Prepared proposal for planning and design smart mobility testing ground.
   * Explored LiDAR and camera sensors for traffic detection
 
-### 11/2019 – Now, [Real-Time Traffic Signal System Performance Measurement Phase II](https://www.njdottechtransfer.net/2021/07/01/njdot-tech-talk-automating-traffic-signal-performance-measures-for-njdot-adaptive-traffic-signal-control-systems/), New Jersey DOT
+### 11/2019 – Now, [Real-Time Traffic Signal System Performance Measurement Phase II](https://www.njdottechtransfer.net/2020/06/12/development-of-rttspms/), New Jersey DOT
   * Writing Proposal, Quarterly Report, and Organizting Weekly Meeting
   * Functionality enhancement and testing of connected vehicle devices and ATSPMs
   * Developed new performance measures using stop-bar detector and traffic flow theory
