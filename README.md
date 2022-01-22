@@ -8,3 +8,7 @@ but you should open your gif in a new tab and click copy image address or sth li
 
 https://raw.githubusercontent.com/TeRyZh/Website/main/images/Detection%20and%20Tracking_small.png
 
+or 
+
+https://github.com/TeRyZh/Website/blob/main/images/HASDA%20Model%20Detection.gif?raw=true
+
