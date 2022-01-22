@@ -39,3 +39,6 @@ Automated Traffic Signal Performance Measures (ATSPMs), Adaptive Signal Control 
 ![](https://raw.githubusercontent.com/TeRyZh/Website/main/images/NGSIM%20Reconstruction.gif)
 
 Blue: Faulty NGSIM Trajectory; Red: Our Reconstructed NGSIM Trajectory
+
+![](https://github.com/TeRyZh/Website/blob/main/images/HASDA%20Model%20Detection.gif?raw=true)
+
