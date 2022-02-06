@@ -17,28 +17,29 @@ Research Interests
 ### Transportation AI and Data Science
 Applying computer vision, LiDAR, and drone-based remote sensing to collect high-resolution data for research and innovations. Scientific machine learning for traffic modeling, control and prediction.
 
+####                _Figure 1. High-resolution High Angle Vehicle Trajectory Detection_
+![](https://raw.githubusercontent.com/TeRyZh/Website/main/images/NGSIM%20Reconstruction.gif)
+
+Blue: Faulty NGSIM Trajectory; Red: Our Reconstructed NGSIM Trajectory
+
+####                _Figure 2. Roadside LiDAR Vehicle Detection_
+<!-- <img src="https://raw.githubusercontent.com/TeRyZh/Website/main/images/Detection%20and%20Tracking_small.png" width="600" height="400">  -->
+![](https://github.com/TeRyZh/Website/blob/main/images/BakersBasin_LiDAR_Detection.gif?raw=true)
+
 ### Robotics with Mobility Applications
 Connected and Automated Vehicle and Highway, Smart Mobility and Operational Design, and Wireless Communications & IoT.
+
+####                 _Figure 3. 511 Advanced Traveler Information System_ 
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/https://github.com/TeRyZh/Website/blob/main/images/Picture1.gif" width="600" height="400"> -->
+![](https://raw.githubusercontent.com/TeRyZh/Website/main/images/Picture1.gif)
 
 ### Arterial Management and Operations
 Automated Traffic Signal Performance Measures (ATSPMs), Adaptive Signal Control Technology (ASCT) and Traffic Flow Theory. 
 
-####                 _Figure 1. 511 Advanced Traveler Information System_ 
-<!-- <img src="{{ site.url }}{{ site.baseurl }}/https://github.com/TeRyZh/Website/blob/main/images/Picture1.gif" width="600" height="400"> -->
-![](https://raw.githubusercontent.com/TeRyZh/Website/main/images/Picture1.gif)
-
-####                _Figure 2. Stopbar Coordination Diagram_
+####                _Figure 4. Stopbar Coordination Diagram_
 <img src="https://raw.githubusercontent.com/TeRyZh/Website/main/images/RCD.png" width="600" height="400"> 
 
 
-####                _Figure 3. Roadside LiDAR Vehicle Detection_
-<!-- <img src="https://raw.githubusercontent.com/TeRyZh/Website/main/images/Detection%20and%20Tracking_small.png" width="600" height="400">  -->
-![](https://github.com/TeRyZh/Website/blob/main/images/BakersBasin_LiDAR_Detection.gif?raw=true)
-
-####                _Figure 4. High-resolution High Angle Vehicle Trajectory Detection_
-![](https://raw.githubusercontent.com/TeRyZh/Website/main/images/NGSIM%20Reconstruction.gif)
-
-Blue: Faulty NGSIM Trajectory; Red: Our Reconstructed NGSIM Trajectory
 
 <!-- ![](https://github.com/TeRyZh/Website/blob/main/images/HASDA%20Model%20Detection.gif?raw=true) -->
 
