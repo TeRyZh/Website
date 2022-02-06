@@ -31,14 +31,14 @@ Automated Traffic Signal Performance Measures (ATSPMs), Adaptive Signal Control 
 <img src="https://raw.githubusercontent.com/TeRyZh/Website/main/images/RCD.png" width="600" height="400"> 
 
 
-####                _Figure 3. Roadside LiDAR Vehicle Detection and Tracking_
-<img src="https://raw.githubusercontent.com/TeRyZh/Website/main/images/Detection%20and%20Tracking_small.png" width="600" height="400"> 
-
+####                _Figure 3. Roadside LiDAR Vehicle Detection_
+<!-- <img src="https://raw.githubusercontent.com/TeRyZh/Website/main/images/Detection%20and%20Tracking_small.png" width="600" height="400">  -->
+![](https://github.com/TeRyZh/Website/blob/main/images/BakersBasin_LiDAR_Detection.gif?raw=true)
 
 ####                _Figure 4. High-resolution High Angle Vehicle Trajectory Detection_
 ![](https://raw.githubusercontent.com/TeRyZh/Website/main/images/NGSIM%20Reconstruction.gif)
 
 Blue: Faulty NGSIM Trajectory; Red: Our Reconstructed NGSIM Trajectory
 
-![](https://github.com/TeRyZh/Website/blob/main/images/HASDA%20Model%20Detection.gif?raw=true)
+<!-- ![](https://github.com/TeRyZh/Website/blob/main/images/HASDA%20Model%20Detection.gif?raw=true) -->
 
