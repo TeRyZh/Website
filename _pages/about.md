@@ -17,10 +17,8 @@ Research Interests
 ### Transportation AI and Data Science
 Applying computer vision, LiDAR, and drone-based remote sensing to collect high-resolution data for research and innovations. Scientific machine learning for traffic modeling, control and prediction.
 
-####                _Figure 1. High-resolution High Angle Vehicle Trajectory Detection_
+####                _Figure 1. High-resolution High Angle Vehicle Trajectory Detection (Blue: Faulty NGSIM Trajectory; Red: Our Reconstructed NGSIM Trajectory)_
 ![](https://raw.githubusercontent.com/TeRyZh/Website/main/images/NGSIM%20Reconstruction.gif)
-
-Blue: Faulty NGSIM Trajectory; Red: Our Reconstructed NGSIM Trajectory
 
 ####                _Figure 2. Roadside LiDAR Vehicle Detection_
 <!-- <img src="https://raw.githubusercontent.com/TeRyZh/Website/main/images/Detection%20and%20Tracking_small.png" width="600" height="400">  -->
