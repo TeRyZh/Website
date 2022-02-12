@@ -26,7 +26,7 @@ author_profile: true
 * Tianya Zhang, Peter Jin, Yi Ge, Ryhan Moghe, Xiaowen Jiang. Vehicle Detection and Tracking for 511 Traffic Cameras with U-Shaped Dual Attention Inception Neural Networks and Spatial-Temporal Map. _Transportation Research Record_. January 2022. doi:10.1177/03611981211068365
 <a href="https://github.com/TeRyZh/Detection-is-Tracking-511-CCTV-Camera-Vehicle-Detection-Using-STMap-and-DAIU-Net"><i class='fab fa-github'></i> Github </a>
 <a href="https://journals.sagepub.com/doi/pdf/10.1177/03611981211068365"><i class='fa fa-book'></i> Paper</a>
-* Tianya Zhang, Peter Jin, Spatial-Temporal Map Vehicle Trajectory Detection Using Dynamic Mode Decomposition and Res-UNet+ Neural Network, *IEEE Transaction on Intelligent Transportation System* (Accepted) 
+* Tianya Zhang, Peter Jin, Spatial-Temporal Map Vehicle Trajectory Detection Using Dynamic Mode Decomposition and Res-UNet+ Neural Network, *IEEE Transaction on Intelligent Transportation System* (Accepted with Minor Revision) 
 <a href="https://github.com/TeRyZh/Reconstruction-NGSIM-Trajectory-with-DMD-and-Res_UNet_plus"><i class='fab fa-github'></i> Github </a>
 <a href="https://arxiv.org/abs/2201.04755"><i class='fa fa-book'></i> Paper</a>
 * Yi Ge, PJ Jin, Tianya Zhang, J Martinez. Enhanced Spatial–Temporal Map-Based Video Analytic Platform and Its Local- Versus Cloud-Based Deployment with Regional 511 Camera Network. *Transportation Research Record*. August 2021.
