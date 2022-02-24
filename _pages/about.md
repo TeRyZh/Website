@@ -12,8 +12,7 @@ I am a final year Ph.D. candidate and an upcoming postdoc researcher from Rutger
 
 I am looking for academic or industrial position to continue the work of combining machine learning, computer vision with connected and automated technology to build safe, green and smart mobility applications.
 
-Research Interests
-======
+
 ### Transportation AI and Data Science
 Applying computer vision, LiDAR, and drone-based remote sensing to collect high-resolution data for research and innovations. Scientific machine learning for traffic modeling, control and prediction.
 
