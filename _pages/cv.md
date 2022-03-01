@@ -39,6 +39,7 @@ Skills
  
 Awards
 ------
+  * 2022 SGS Conference Travel Awards, Rutgers University - New Brunswick
   * 2021 Future of ITSNJ Award, ITS New Jersey
   * 2021 Doctoral Academic Advancement Award, Rutgers University - New Brunswick
   * 2020 Sweet Sixteen and Supplemental Categories High Value Research Projects, AASHTO
