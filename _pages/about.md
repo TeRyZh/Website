@@ -34,7 +34,7 @@ Connected and Automated Vehicle and Highway, Smart Mobility and Operational Desi
 Automated Traffic Signal Performance Measures (ATSPMs) and Traffic Flow Theory. 
 
 ####                _Figure 4. Stopbar Coordination Diagram_
-<img src="https://raw.githubusercontent.com/TeRyZh/Website/main/images/RCD%20with%20Trajectory.png" width="600" height="400"> 
+<img src="https://raw.githubusercontent.com/TeRyZh/Website/main/images/RCD%20with%20Trajectory.png" width="800" height="400"> 
 
 
 
