@@ -31,7 +31,7 @@ Connected and Automated Vehicle and Highway, Smart Mobility and Operational Desi
 ![](https://raw.githubusercontent.com/TeRyZh/Website/main/images/Picture1.gif)
 
 ### Arterial Management and Operations
-Automated Traffic Signal Performance Measures (ATSPMs), Adaptive Signal Control Technology (ASCT) and Traffic Flow Theory. 
+Automated Traffic Signal Performance Measures (ATSPMs) and Traffic Flow Theory. 
 
 ####                _Figure 4. Stopbar Coordination Diagram_
 <img src="https://raw.githubusercontent.com/TeRyZh/Website/main/images/RCD.png" width="600" height="400"> 
