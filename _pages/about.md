@@ -14,7 +14,7 @@ I am looking for academic or industrial position to continue the work of combini
 
 
 ### Transportation AI and Data Science
-Applying computer vision, LiDAR, and drone-based remote sensing to collect high-resolution data for research and innovations. Scientific machine learning for traffic modeling, control and prediction.
+Applying computer vision, LiDAR, and drone-based remote sensing to collect high-resolution data for research and innovations. 
 
 ####                _Figure 1. High-resolution High Angle Vehicle Trajectory Detection (Blue: Faulty NGSIM Trajectory; Red: Our Reconstructed NGSIM Trajectory)_
 ![](https://raw.githubusercontent.com/TeRyZh/Website/main/images/NGSIM%20Reconstruction.gif)
@@ -31,9 +31,9 @@ Connected and Automated Vehicle and Highway, Smart Mobility and Operational Desi
 ![](https://raw.githubusercontent.com/TeRyZh/Website/main/images/Picture1.gif)
 
 ### Arterial Management and Operations
-Automated Traffic Signal Performance Measures (ATSPMs) and Traffic Flow Theory. 
+Automated Traffic Signal Performance Measures (ATSPMs) and Traffic Flow Theory. Scientific machine learning for traffic modeling, control and prediction.
 
-####                _Figure 4. Stopbar Coordination Diagram_
+####                _Figure 4. Rutgers Coordination Diagram (RCD)_
 <img src="https://raw.githubusercontent.com/TeRyZh/Website/main/images/RCD%20with%20Trajectory.png" width="800" height="400"> 
 
 
