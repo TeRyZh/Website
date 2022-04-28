@@ -19,9 +19,9 @@ author_profile: true
 * Tianya Zhang, Ying Ye, Yu Kathy Zhang. Big Data Application for Network Level Travel Time Prediction. arXiv:2201.05760.
 <a href="https://github.com/TeRyZh/Big-Data-Application-for-Network-Level-Travel-Time-Prediction"><i class='fab fa-github'></i> Github </a>
 <a href="https://arxiv.org/abs/2201.05760"><i class='fa fa-book'></i> Paper</a>
-* Tianya Zhang, Peter Jin. Roadside LiDAR Vehicle Detection and Tracking Using Range and Intensity Background Subtraction. _Journal of Advanced Transportation_. (Accepted) 
+* Tianya Zhang, Peter J. Jin, "Roadside LiDAR Vehicle Detection and Tracking Using Range and Intensity Background Subtraction", Journal of Advanced Transportation, vol. 2022, Article ID 2771085, 14 pages, 2022. 
 <a href="https://github.com/TeRyZh/Roadside-LiDAR-Vehicle-Detection-and-Tracking-Background-Subtraction"><i class='fab fa-github'></i> Github </a>
-<a href="https://arxiv.org/abs/2201.04756"><i class='fa fa-book'></i> Paper</a>
+<a href="https://doi.org/10.1155/2022/2771085"><i class='fa fa-book'></i> Paper</a>
 * Tianya Zhang, Peter Jin, Brennan. T, McVeigh, K. Arterial Vehicle Trajectory Reconstruction Based on Stop-Bar Video Sensor for Automated Traffic Signal Performance Measures (ATSPMs). 2022. (Accept by TRBAM in Revision for Journal)
 * Tianya Zhang, Peter Jin, Yi Ge, Ryhan Moghe, Xiaowen Jiang. Vehicle Detection and Tracking for 511 Traffic Cameras with U-Shaped Dual Attention Inception Neural Networks and Spatial-Temporal Map. _Transportation Research Record_. January 2022. doi:10.1177/03611981211068365
 <a href="https://github.com/TeRyZh/Detection-is-Tracking-511-CCTV-Camera-Vehicle-Detection-Using-STMap-and-DAIU-Net"><i class='fab fa-github'></i> Github </a>
