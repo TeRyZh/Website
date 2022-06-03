@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year Ph.D. candidate and an incoming postdoc researcher from Rutgers University. My main research efforts involve cooperative and intelligent transportation systems. My dissertation topic is to develop a non-conventional video detection and validation method for high-resolution trajectory collection using computer vision and 3D Point Clouds. 
+I am a final year Post-Doc Associate Researcher from Rutgers University. My main research efforts involve cooperative and intelligent transportation systems. My dissertation topic is to develop a non-conventional video detection and validation method for high-resolution trajectory collection using computer vision and 3D Point Clouds. 
 
 I am looking for research position to continue the work of combining machine learning, computer vision with connected and automated technology to build safe, green and smart mobility applications.
 
