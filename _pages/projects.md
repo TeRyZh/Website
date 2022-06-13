@@ -8,11 +8,11 @@ redirect_from:
 ---
 {% include base_path %}
 
-### 08/2019 - Now, [Middlesex County - Smart Mobility Testing Ground (SMTG)](https://www.bizjournals.com/pittsburgh/news/2021/08/02/middlesex-county-new-jersey-a-hub-for-technology.html)
+### 08/2019 - 05/2022, [Middlesex County - Smart Mobility Testing Ground (SMTG)](https://www.bizjournals.com/pittsburgh/news/2021/08/02/middlesex-county-new-jersey-a-hub-for-technology.html)
   * Prepared proposal for planning and design smart mobility testing ground.
   * Explored LiDAR and camera sensors for traffic detection
 
-### 11/2019 – Now, [Real-Time Traffic Signal System Performance Measurement Phase II](https://www.njdottechtransfer.net/2020/06/12/development-of-rttspms/), New Jersey DOT
+### 11/2019 – 05/2022, [Real-Time Traffic Signal System Performance Measurement Phase II](https://www.njdottechtransfer.net/2020/06/12/development-of-rttspms/), New Jersey DOT
   * Writing Proposal, Quarterly Report, and Organizting Weekly Meeting
   * Functionality enhancement and testing of connected vehicle devices and ATSPMs
   * Developed new performance measures using stop-bar detector and traffic flow theory
