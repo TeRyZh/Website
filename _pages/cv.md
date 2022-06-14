@@ -51,5 +51,12 @@ Service and leadership
 * Founder President, Graduate Union of Civil and Environmental Engineering, 09/ 2019 - 05/2020
 * Executive Vice President, Rutgers Graduate Student Association, 05/2018 - 05/2019
 * Student Representative, Rutgers Graduate Student Association, 05/2017 - 05/2018
-* Reviewer: Transportation Research Board Meeting, IEEE ITSC, Journal of Advanced Transportation, IEEE Sensor
+
+Reviewer
+------
+IEEE ITSC
+Transportation Research Board Meeting
+Journal of Advanced Transportation, 
+IEEE Sensor Journal
+Optics & Laser Technology
 
