@@ -54,9 +54,9 @@ Service and leadership
 
 Reviewer
 ------
-IEEE ITSC
-Transportation Research Board Meeting
-Journal of Advanced Transportation, 
-IEEE Sensor Journal
-Optics & Laser Technology
+* IEEE ITSC
+* Transportation Research Board Meeting
+* Journal of Advanced Transportation, 
+* IEEE Sensor Journal
+* Optics & Laser Technology
 
