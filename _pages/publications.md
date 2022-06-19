@@ -22,11 +22,11 @@ author_profile: true
 * Tianya Zhang, Peter J. Jin, "Roadside LiDAR Vehicle Detection and Tracking Using Range and Intensity Background Subtraction", Journal of Advanced Transportation, vol. 2022, Article ID 2771085, 14 pages, 2022. 
 <a href="https://github.com/TeRyZh/Roadside-LiDAR-Vehicle-Detection-and-Tracking-Background-Subtraction"><i class='fab fa-github'></i> Github </a>
 <a href="https://doi.org/10.1155/2022/2771085"><i class='fa fa-book'></i> Paper</a>
-* Tianya Zhang, Peter Jin, Brennan. T, McVeigh, K. Arterial Vehicle Trajectory Reconstruction Based on Stop-Bar Video Sensor for Automated Traffic Signal Performance Measures (ATSPMs). 2022. (Accept by TRBAM in Revision for Journal)
+* Tianya Zhang, Peter Jin, Brennan. T, McVeigh, K. Arterial Vehicle Trajectory Reconstruction Based on Stop-Bar Video Sensor for Automated Traffic Signal Performance Measures (ATSPMs). 2022. (Accept ASCE Journal of Transportation Engineering)
 * Tianya Zhang, Peter Jin, Yi Ge, Ryhan Moghe, Xiaowen Jiang. Vehicle Detection and Tracking for 511 Traffic Cameras with U-Shaped Dual Attention Inception Neural Networks and Spatial-Temporal Map. _Transportation Research Record_. January 2022. doi:10.1177/03611981211068365
 <a href="https://github.com/TeRyZh/Detection-is-Tracking-511-CCTV-Camera-Vehicle-Detection-Using-STMap-and-DAIU-Net"><i class='fab fa-github'></i> Github </a>
 <a href="https://journals.sagepub.com/doi/pdf/10.1177/03611981211068365"><i class='fa fa-book'></i> Paper</a>
-* Tianya Zhang, Peter Jin, Spatial-Temporal Map Vehicle Trajectory Detection Using Dynamic Mode Decomposition and Res-UNet+ Neural Network, *IEEE Transaction on Intelligent Transportation System* (Accepted with Minor Revision) 
+* Tianya Zhang, Peter Jin, Spatial-Temporal Map Vehicle Trajectory Detection Using Dynamic Mode Decomposition and Res-UNet+ Neural Network, *IEEE Transaction on Intelligent Transportation System* (Accepted) 
 <a href="https://github.com/TeRyZh/Reconstruction-NGSIM-Trajectory-with-DMD-and-Res_UNet_plus"><i class='fab fa-github'></i> Github </a>
 <a href="https://arxiv.org/abs/2201.04755"><i class='fa fa-book'></i> Paper</a>
 * Yi Ge, PJ Jin, Tianya Zhang, J Martinez. Enhanced Spatial–Temporal Map-Based Video Analytic Platform and Its Local- Versus Cloud-Based Deployment with Regional 511 Camera Network. *Transportation Research Record*. August 2021.
