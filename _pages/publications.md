@@ -22,7 +22,7 @@ author_profile: true
 * Tianya Zhang, Peter J. Jin, "Roadside LiDAR Vehicle Detection and Tracking Using Range and Intensity Background Subtraction", *Journal of Advanced Transportation*, vol. 2022, Article ID 2771085, 14 pages, 2022. 
 <a href="https://github.com/TeRyZh/Roadside-LiDAR-Vehicle-Detection-and-Tracking-Background-Subtraction"><i class='fab fa-github'></i> Github </a>
 <a href="https://doi.org/10.1155/2022/2771085"><i class='fa fa-book'></i> Paper</a>
-* Tianya Zhang, Peter Jin, Brennan. T, McVeigh, K. Forthcoming. Arterial Vehicle Trajectory Reconstruction Based on Stop-Bar Video Sensor for Automated Traffic Signal Performance Measures (ATSPMs). *Journal of Transportation Engineering, Part A: Systems*. 2022. DOI: 10.1061/JTEPBS.0000749
+* Tianya Terry Zhang, Peter Jin, Brennan. T, McVeigh, K. Forthcoming. Arterial Vehicle Trajectory Reconstruction Based on Stop-Bar Video Sensor for Automated Traffic Signal Performance Measures (ATSPMs). *Journal of Transportation Engineering, Part A: Systems*. 2022. DOI: 10.1061/JTEPBS.0000749
 * Tianya Zhang, Peter Jin, Yi Ge, Ryhan Moghe, Xiaowen Jiang. Vehicle Detection and Tracking for 511 Traffic Cameras with U-Shaped Dual Attention Inception Neural Networks and Spatial-Temporal Map. _Transportation Research Record_. January 2022. doi:10.1177/03611981211068365
 <a href="https://github.com/TeRyZh/Detection-is-Tracking-511-CCTV-Camera-Vehicle-Detection-Using-STMap-and-DAIU-Net"><i class='fab fa-github'></i> Github </a>
 <a href="https://journals.sagepub.com/doi/pdf/10.1177/03611981211068365"><i class='fa fa-book'></i> Paper</a>
@@ -31,7 +31,7 @@ author_profile: true
 <a href="https://arxiv.org/abs/2201.04755"><i class='fa fa-book'></i> Paper</a>
 * Yi Ge, PJ Jin, Tianya Zhang, J Martinez. Enhanced Spatial–Temporal Map-Based Video Analytic Platform and Its Local- Versus Cloud-Based Deployment with Regional 511 Camera Network. *Transportation Research Record*. August 2021.
 <a href="https://journals.sagepub.com/doi/full/10.1177/03611981211036377"><i class='fa fa-book'></i> Paper</a>
-* Tianya Zhang, Guo M, Jin PJ, Ge Y, Gong J. Longitudinal-Scanline-Based Arterial Traffic Video Analytics with Coordinate Transformation Assisted by 3D Infrastructure Data. *Transportation Research Record*. December 2020. 
+* Tianya Terry Zhang, Guo M, Jin PJ, Ge Y, Gong J. Longitudinal-Scanline-Based Arterial Traffic Video Analytics with Coordinate Transformation Assisted by 3D Infrastructure Data. *Transportation Research Record*. December 2020. 
 <a href="https://journals.sagepub.com/doi/10.1177/0361198120971257"><i class='fa fa-book'></i> Paper</a>
 * Tianya Zhang, Peter J. Jin, A Longitudinal Scanline based Vehicle Trajectory Reconstruction Method for High-Angle Traffic Video, *Transportation Research: Part C*, 103, 104-128, June 2019.
 <a href="https://www.sciencedirect.com/science/article/pii/S0968090X18312440"><i class='fa fa-book'></i> Paper</a>
