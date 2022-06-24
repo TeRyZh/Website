@@ -8,18 +8,19 @@ redirect_from:
 ---
 {% include base_path %}
 
-### 08/2019 - 05/2022, [Middlesex County - Smart Mobility Testing Ground (SMTG)](https://www.bizjournals.com/pittsburgh/news/2021/08/02/middlesex-county-new-jersey-a-hub-for-technology.html)
+### 08/2019 - 05/2022, Middlesex County - Smart Mobility Testing Ground (SMTG)
   * Prepared proposal for planning and design smart mobility testing ground.
   * Explored LiDAR and camera sensors for traffic detection
 
-### 11/2019 – 05/2022, [Real-Time Traffic Signal System Performance Measurement Phase II](https://www.njdottechtransfer.net/2020/06/12/development-of-rttspms/), New Jersey DOT
+### 11/2019 – 05/2022, Real-Time Traffic Signal System Performance Measurement Phase II, New Jersey DOT
   * Writing Proposal, Quarterly Report, and Organizting Weekly Meeting
   * Functionality enhancement and testing of connected vehicle devices and ATSPMs
   * Developed new performance measures using stop-bar detector and traffic flow theory
 
-### 12/2017 - 5/2019, [Real-Time Traffic Signal Performance Measurement Phase Ⅰ](https://research.transportation.org/wp-content/uploads/sites/31/2021/01/NJDOT_RTSPM_Generic_FACT_SHEET_Final_Sweet16_Figs.pdf), New Jersey DOT
+### 12/2017 - 5/2019, Real-Time Traffic Signal Performance Measurement Phase Ⅰ, New Jersey DOT
   * Customized ATSPMs event logging process for adaptive signal control technology
   * Maintain ATSPMs database and website interface
+  * Quarterly Report and Organizting Weekly Meeting
 
 ### 08/2019 – 08/2020, The Vehicle-Infrastructure Miniature and Virtualization Platform for Connected and Automated Mobility System, iFlytek. Inc
   * Develop a roadside traffic detection and tracking algorithm and implement it into a miniature connected automated car platform.
