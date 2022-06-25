@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-### 08/2019 - 05/2022, Middlesex County - Smart Mobility Testing Ground (SMTG)
+### 08/2019 - 05/2022, Data City - Middlesex County Smart Mobility Testing Ground (SMTG)
   * Prepared proposal for planning and design smart mobility testing ground.
   * Explored LiDAR and camera sensors for traffic detection
 
