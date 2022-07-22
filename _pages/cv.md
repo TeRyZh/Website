@@ -13,7 +13,7 @@ Education
 ------
 * Ph.D in Intelligent Transportation System, Rutgers University, 2021 Fall (expected)
 * Master in Computer and Information Technology, University of Pennsylvania
-* Master in Civil Engineering, Texas A&M University
+* Master in Transportation Engineering, Texas A & M University, College Station
 
 
 Work experience
