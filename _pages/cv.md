@@ -59,4 +59,5 @@ Reviewer
 * Journal of Advanced Transportation, 
 * IEEE Sensor Journal
 * Optics & Laser Technology
+* International Journal of Artificial Intelligence (IJ-AI)
 
