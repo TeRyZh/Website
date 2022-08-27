@@ -18,18 +18,18 @@ Education
 
 Work experience
 ------
-* 2021 Fall, Graduate Teaching Assistant
+* Teaching Assistant
   * Department of Computer and Information Science
   * University of Pennsylvania
-  * CIT 595: Computer Systems Programming
-  * CIT 596: Algorithms & Computation
-* 09/2016 – 11/2021, Graduate Research Assistant
+  * CIT 595: Computer Systems Programming, 2021 Fall
+  * CIT 596: Algorithms & Computation, 2021 Fall, 2022 Fall,
+* Graduate Research Assistant, 09/2016 – 11/2021,
   * Department of Civil and Environmental Engineering
   * Rutgers, The State University of New Jersey
   * Advisor: Jing Jin
-* 05/2017 - 08/2018 Intern, Digital China, 
+* Intern, Digital China, 05/2017 - 08/2018 
   * Connected Vehicle Mobile App Algorithm Developer, 
-* 09/2011 - 05/2014, People's Public Security University of China
+* People's Public Security University of China, 09/2011 - 05/2014, 
   * Department of Traffic Management Engineering
 
 Skills
