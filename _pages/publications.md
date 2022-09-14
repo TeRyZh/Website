@@ -49,7 +49,8 @@ author_profile: true
 * Tianya Zhang, Limin Ding, Harmony Degree Analysis and Evaluation of Traffic Safety. Transactions of Beijing Institute of Technology, Vol.33 Suppl.1 Nov.2013. 
 
 ### Reports
-* Peter J. Jin, Mohsen Jafari, Yufei Huang, Yizhou Wang, Tianya Zhang, New Brunswick Smart Hub: Infrastructure & Mobility Innovation Testing Ground, Concept Report, New Jersey Economic Development Authority (NJEDA), Final Report, November 2019.
+* Jin, P.J., Zhang, T., Brennan, T.M., Jalayer, M., Wang, Y., Ge, Y., Chen, A. and Patel, D., 2022. Real-Time Traffic Signal System Performance Measurement Phase II: Data and Functionality Enhancement, Large Scale Deployment, Connected and Autonomous Vehicles Integration (No. FHWA NJ-2022-002). New Jersey. Department of Transportation. Bureau of Research.
+* Jin, P.J., Zhang, T., Wang, Y., Huang, Y., Anjum, K., Jafari, M. and Ge, Y., 2020. The Development of a Smart Intersection Mobility Testbed (SIMT).
 * Jin P., Ge Y., Zhang T., Wang Y., Martinez J. (2019). Cloud-Based Virtual Traffic Sensor Network with 511 CCTV Traffic Video Streams. (Report No. CAIT-UTC-NC8). Rutgers: Center for Advanced Infrastructure and Transportation (CAIT). 
 * Jin, P., Zhang, T., Brennan, T. and Jalayer, M. (2019). Real-Time Signal Performance Measurement (RT-SPM) (Report No. FHWA-NJ-2019-002). Trenton: New Jersey Department of Transportation. 
 
