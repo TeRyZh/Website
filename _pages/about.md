@@ -14,7 +14,7 @@ I am looking for research position to continue the work of combining machine lea
 
 
 ### Traffic Detection and Sensing
-Applying computer vision, LiDAR, and drone-based remote sensing to collect high-resolution data for research and innovations. 
+Applying computer vision, LiDAR, and drone-based sensing to collect high-resolution data for research and innovations. 
 
 ####                _Figure 1. High-resolution High Angle Vehicle Trajectory Detection (Blue: Faulty NGSIM Trajectory; Red: Our Reconstructed NGSIM Trajectory)_
 ![](https://raw.githubusercontent.com/TeRyZh/Website/main/images/NGSIM%20Reconstruction.gif)
