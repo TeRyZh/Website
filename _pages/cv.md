@@ -18,7 +18,9 @@ Education
 
 Work experience
 ------
-* Teaching Assistant
+* Research Intern, Skyebrowser, 05/2022 - Now
+  * Drone Based Video Analysis
+*  Teaching Assistant
   * Department of Computer and Information Science
   * University of Pennsylvania
   * CIT 595: Computer Systems Programming, 2021 Fall
