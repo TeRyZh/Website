@@ -24,7 +24,7 @@ Work experience
   * Drone Based Video Analysis
 <!-- *  Teaching Assistant, University of Pennsylvania
   * CIT 595: Computer Systems Programming, 2021 Fall
-  * CIT 596: Algorithms & Computation, 2021 Fall, 2022 Fall, 2023 Spring
+  * CIT 596: Algorithms & Computation, 2021 Fall, 2022 Fall, 2023 Spring-->
 <!-- * Graduate Research Assistant, 09/2016 – 11/2021,
   * Department of Civil and Environmental Engineering
   * Rutgers, The State University of New Jersey
