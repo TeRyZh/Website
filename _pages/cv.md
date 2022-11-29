@@ -46,7 +46,6 @@ Awards
   * 2021 Doctoral Academic Advancement Award, Rutgers University - New Brunswick
   * 2020 Sweet Sixteen and Supplemental Categories High Value Research Projects, AASHTO
   * 2018 Outstanding Graduate Student Scholarship, ITS New Jersey
-  * 2013 National Scholarship, Minister of Education, China
 
 Service and leadership
 ------
@@ -56,10 +55,11 @@ Service and leadership
 
 Reviewer
 ------
-* IEEE ITSC
+* IEEE ITS Conference
 * Transportation Research Board Meeting
 * Journal of Advanced Transportation, 
 * IEEE Sensor Journal
 * Optics & Laser Technology
 * International Journal of Artificial Intelligence (IJ-AI)
+* IEEE Transactions on ITS
 
