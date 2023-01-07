@@ -57,7 +57,7 @@ Reviewer
 ------
 * IEEE ITS Conference
 * Transportation Research Board Meeting
-* Journal of Advanced Transportation, 
+* Journal of Advanced Transportation
 * IEEE Sensor Journal
 * Optics & Laser Technology
 * International Journal of Artificial Intelligence (IJ-AI)
