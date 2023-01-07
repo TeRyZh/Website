@@ -62,4 +62,5 @@ Reviewer
 * Optics & Laser Technology
 * International Journal of Artificial Intelligence (IJ-AI)
 * IEEE Transactions on ITS
+* Applied Artificial Intelligence
 
