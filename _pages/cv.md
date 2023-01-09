@@ -19,7 +19,7 @@ Work experience
 ------
 * Post-Doctoral Associate, Rutgers University- Camden, 06/2022 - Now
   * C2SMART Center: Collaborative Driving, Ramp Metering and Mean-field Games
-  * CIRCLES-Consortium: The Largest CAV-based Mobile Traffic Control Experiment
+  * [CIRCLES-Consortium](https://circles-consortium.github.io/index.html): The Largest CAV-based Mobile Traffic Control Experiment
 * Research Intern, Skyebrowser, 05/2022 - Now
   * Drone Based Video Analysis
 <!-- Teaching Assistant, University of Pennsylvania
