@@ -37,10 +37,7 @@ author_profile: true
 <a href="https://journals.sagepub.com/doi/10.1177/0361198120971257"><i class='fa fa-book'></i> Paper</a>
 * Tianya Zhang, Peter J. Jin, A Longitudinal Scanline based Vehicle Trajectory Reconstruction Method for High-Angle Traffic Video, *Transportation Research: Part C*, 103, 104-128, June 2019.
 <a href="https://www.sciencedirect.com/science/article/pii/S0968090X18312440"><i class='fa fa-book'></i> Paper</a>
-* Shuai Ma, Limin Ding, Tianya Zhang, Mingmin Wang, Evaluation of Traffic Safety Based on the Concept of Harmony.Journal of People’s Public Security University of China (Science and Technology). (2016):64-70. 
-<a href="http://www.cnki.com.cn/Article/CJFDTotal-GOAN201602015.htm"><i class='fa fa-book'></i> Paper</a>
-* Limin Ding, Tianya Zhang, Principle of Traffic Congestion Management. Journal of People’s Public Security University of China (Science and Technology). 2013, 19(003):31-35.
-<a href="http://www.cnki.com.cn/Article/CJFDTotal-GOAN201303007.htm"><i class='fa fa-book'></i> Paper</a>
+* Limin Ding, Tianya Zhang, "论交通拥堵治理之"道"." 中国人民公安大学学报：自然科学版 3(2013):5.
 
 
 ### Conferences
