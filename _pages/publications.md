@@ -16,9 +16,9 @@ author_profile: true
 {% endfor %} -->
 
 ### Journals
-<!--* Tianya Zhang, Ying Ye, Yu Kathy Zhang. Big Data Application for Network Level Travel Time Prediction. arXiv:2201.05760.
-<a href="https://github.com/TeRyZh/Big-Data-Application-for-Network-Level-Travel-Time-Prediction"><i class='fab fa-github'></i> Github </a>
-<a href="https://arxiv.org/abs/2201.05760"><i class='fa fa-book'></i> Paper</a>-->
+* T. T. Zhang and P. J. Jin, "Segmentation is Tracking: Spatial-Temporal Map Vehicle Trajectory Reconstruction and Validation," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2023.3299504.
+<a href="https://github.com/TeRyZh/Reconstruction-NGSIM-Trajectory-with-DMD-and-Res_UNet_plus"><i class='fab fa-github'></i> Github </a>
+<a href="https://ieeexplore.ieee.org/document/10221774)"><i class='fa fa-book'></i> Paper</a>
 * Yi Ge, Peter J. Jin, Tianya Zhang, Anjiang Chen. Roadside LiDAR Sensor Configuration Assessment and Optimization Methods for Vehicle Detection and Tracking in Connected and Automated Vehicle Applications. *Transportation Research Record*. 2023. <a href="https://journals.sagepub.com/doi/abs/10.1177/03611981231172949"><i class='fa fa-book'></i> Paper</a>
 * Zhang, Tianya Terry, Peter J. Jin, Thomas M. Brennan Jr, Kelly McVeigh, Mohammad Jalayer, and Deep Patel. Arterial Vehicle Trajectory Reconstruction Based on Stop-Bar Video Sensor for Automated Traffic Signal Performance Measures. *Journal of Transportation Engineering, Part A: Systems*. 2022. DOI: 10.1061/JTEPBS.0000749
 <a href="https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000749"><i class='fa fa-book'></i> Paper</a>
@@ -28,9 +28,6 @@ author_profile: true
 * Tianya Zhang, Peter Jin, Yi Ge, Ryhan Moghe, Xiaowen Jiang. Vehicle Detection and Tracking for 511 Traffic Cameras with U-Shaped Dual Attention Inception Neural Networks and Spatial-Temporal Map. _Transportation Research Record_. January 2022.
 <a href="https://github.com/TeRyZh/Detection-is-Tracking-511-CCTV-Camera-Vehicle-Detection-Using-STMap-and-DAIU-Net"><i class='fab fa-github'></i> Github </a>
 <a href="https://journals.sagepub.com/doi/pdf/10.1177/03611981211068365"><i class='fa fa-book'></i> Paper</a>
-* Tianya Zhang, Peter Jin, Spatial-Temporal Map Vehicle Trajectory Reconstruction Using Dynamic Mode Decomposition and Res-UNet+ Neural Network, *IEEE Transaction on Intelligent Transportation System* (Accepted) 
-<a href="https://github.com/TeRyZh/Reconstruction-NGSIM-Trajectory-with-DMD-and-Res_UNet_plus"><i class='fab fa-github'></i> Github </a>
-<a href="https://arxiv.org/abs/2201.04755"><i class='fa fa-book'></i> Paper</a>
 * Yi Ge, PJ Jin, Tianya Zhang, J Martinez. Enhanced Spatial–Temporal Map-Based Video Analytic Platform and Its Local- Versus Cloud-Based Deployment with Regional 511 Camera Network. *Transportation Research Record*. August 2021.
 <a href="https://journals.sagepub.com/doi/full/10.1177/03611981211036377"><i class='fa fa-book'></i> Paper</a>
 * Tianya Terry Zhang, Guo M, Jin PJ, Ge Y, Gong J. Longitudinal-Scanline-Based Arterial Traffic Video Analytics with Coordinate Transformation Assisted by 3D Infrastructure Data. *Transportation Research Record*. December 2020. 
