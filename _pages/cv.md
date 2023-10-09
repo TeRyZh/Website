@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ------
-* Ph.D in Intelligent Transportation System, Rutgers University, 2022 May
+* Ph.D. in Intelligent Transportation System, Rutgers University, 2022 May
 * Master in Computer and Information Technology, University of Pennsylvania
 * Master in Transportation Engineering, Texas A & M University, College Station
+* Bachelor of Science, Beijing Institute of Technology, Beijing, CN 
 
 Work experience
 ------
