@@ -14,14 +14,14 @@ Education
 * Ph.D. in Intelligent Transportation System, Rutgers University, 2022 May
 * Master in Computer and Information Technology, University of Pennsylvania
 * Master in Transportation Engineering, Texas A & M University, College Station
-* Bachelor of Science, Beijing Institute of Technology, Beijing, CN 
+* Bachelor of Science, Beijing Institute of Technology, Beijing 
 
 Work experience
 ------
-* Post-Doctoral Associate, Rutgers University- Camden, 06/2022 - Now
+* Post-Doctoral Associate, Rutgers University- Camden, 06/2022 - 06/2023
   * [CIRCLES-Consortium](https://circles-consortium.github.io/index.html): [The Largest CAV-based Mobile Traffic Control Experiment](https://apnews.com/article/technology-nashville-pollution-traffic-4962e01d3226685012f1919077be29d1)
   * C2SMART Center: [Collaborative Driving for Ramp Metering Control](https://c2smart.engineering.nyu.edu/collaborative-driving-ramp-metering-and-mean-field-controls/)
-* Research Intern, Skyebrowser, 05/2022 - Now
+* Research Intern, Skyebrowser, 05/2022 - 06/2023
   * Drone Based Video Analysis
 <!-- Teaching Assistant, University of Pennsylvania
    CIT 595: Computer Systems Programming, 2021 Fall
@@ -64,4 +64,5 @@ Reviewer
 * International Journal of Artificial Intelligence (IJ-AI)
 * IEEE Transactions on ITS
 * Applied Artificial Intelligence
+* ...
 
