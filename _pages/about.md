@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant professor at UT-Chattanooga, trying to combine machine learning and computer vision with connected and automated technology to build safe, green, and smart mobility applications. My dissertation topic is to develop a non-conventional video detection and validation method for high-resolution trajectory collection using computer vision and 3D Point Clouds.
+I am a research assistant professor at University of Tennessee at Chattanooga, trying to combine machine learning and computer vision with connected and automated technology to build safe, green, and smart mobility applications. My dissertation topic is to develop a non-conventional video detection and validation method for high-resolution trajectory collection using computer vision and 3D Point Clouds.
 
 
 ### Traffic Detection and Sensing
