@@ -16,8 +16,9 @@ author_profile: true
 {% endfor %} -->
 
 ### Journals
+* Tianya Terry Zhang, Peter J. Jin, Benedetto Piccoli, and Mina Sartipi, Deep Spatial-Temporal Embedding for Vehicle Trajectory Validation and Refinement, Computer-Aided Civil and Infrastructure Engineering. (Accepted) <a href="https://teryzh.github.io/DSTE_NGSM_Validation_Refinement/"><i class='fab fa-github'></i> HomePage </a>
 * T. T. Zhang and P. J. Jin, "Segmentation is Tracking: Spatial-Temporal Map Vehicle Trajectory Reconstruction and Validation," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2023.3299504.
-<a href="https://github.com/TeRyZh/Reconstruction-NGSIM-Trajectory-with-DMD-and-Res_UNet_plus"><i class='fab fa-github'></i> Github </a>
+<a href="https://github.com/TeRyZh/Reconstruction-NGSIM-Trajectory-with-DMD-and-Res_UNet_plus"><class="fa fa-home" aria-hidden="true"></i> Github </a>
 <a href="https://ieeexplore.ieee.org/document/10221774"><i class='fa fa-book'></i> Paper</a>
 * Yi Ge, Peter J. Jin, Tianya Zhang, Anjiang Chen. Roadside LiDAR Sensor Configuration Assessment and Optimization Methods for Vehicle Detection and Tracking in Connected and Automated Vehicle Applications. *Transportation Research Record*. 2023. <a href="https://journals.sagepub.com/doi/abs/10.1177/03611981231172949"><i class='fa fa-book'></i> Paper</a>
 * Zhang, Tianya Terry, Peter J. Jin, Thomas M. Brennan Jr, Kelly McVeigh, Mohammad Jalayer, and Deep Patel. Arterial Vehicle Trajectory Reconstruction Based on Stop-Bar Video Sensor for Automated Traffic Signal Performance Measures. *Journal of Transportation Engineering, Part A: Systems*. 2022. DOI: 10.1061/JTEPBS.0000749
