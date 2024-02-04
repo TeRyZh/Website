@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ### Journals
-* Tianya Terry Zhang, Peter J. Jin, Benedetto Piccoli, and Mina Sartipi. Deep spatial-temporal embedding for vehicle trajectory validation and refinement.Computer-Aided Civiland Infrastructure Engineering, 1–19.
+* Tianya Terry Zhang, Peter J. Jin, Benedetto Piccoli, and Mina Sartipi. Deep spatial-temporal embedding for vehicle trajectory validation and refinement. Computer-Aided Civiland Infrastructure Engineering, 1–19.
 <a href="https://teryzh.github.io/DSTE_NGSM_Validation_Refinement/"><i class="fa fa-home" aria-hidden="true" ></i> HomePage </a>
 <a href="https://doi.org/10.1111/mice.13160"><i class='fa fa-book'></i> Paper</a>
 * T. T. Zhang and P. J. Jin, "Segmentation is Tracking: Spatial-Temporal Map Vehicle Trajectory Reconstruction and Validation," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2023.3299504.
