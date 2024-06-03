@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ### Journals
-* Tianya Terry Zhang, Peter J. Jin, Sean McQuade, Alexandre Bayen, and Benedetto Piccoli. Car-Following Models: A Multidisciplinary Review. in IEEE Transactions on Intelligent Vehicles. (Accepted). 2024 <a href="https://arxiv.org/pdf/2304.07143"><i class='fa fa-book'></i> Arxiv </a>
+* Tianya Terry Zhang, Peter J. Jin, Sean McQuade, Alexandre Bayen, and Benedetto Piccoli. Car-Following Models: A Multidisciplinary Review. in IEEE Transactions on Intelligent Vehicles. DOI: 10.1109/TIV.2024.3409468 (Accepted). 2024 <a href="https://arxiv.org/pdf/2304.07143"><i class='fa fa-book'></i> Arxiv </a>
 * Tianya Terry Zhang, Peter J. Jin, Benedetto Piccoli, and Mina Sartipi. Deep spatial-temporal embedding for vehicle trajectory validation and refinement. Computer-Aided Civil and Infrastructure Engineering, 1–19.
 <a href="https://teryzh.github.io/DSTE_NGSM_Validation_Refinement/"><i class="fa fa-home" aria-hidden="true" ></i> HomePage </a>
 <a href="https://doi.org/10.1111/mice.13160"><i class='fa fa-book'></i> Paper</a>
