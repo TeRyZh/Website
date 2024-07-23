@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ### Journals
-* T.T. Zhang, Yi Ge, P. J. Jin, Mina Sartipi, Anjiang Chen, "Hash-based Gaussian Mixture Model for Roadside LiDAR Smart Infrastructure Application," In IEEE ITS Transaction. (In Press)
+* T. T. Zhang, Yi Ge, Anjiang Chen, Mina Sartipi, P. J. Jin, "Hash-based Gaussian Mixture Model for Roadside LiDAR Smart Infrastructure Application," In IEEE ITS Transaction. (Accepted)
 * T. T. Zhang, P. J. Jin, S. T. McQuade, A. Bayen and B. Piccoli, "Car-Following Models: A Multidisciplinary Review," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2024.3409468. <a href="https://ieeexplore.ieee.org/document/10547481"><i class='fa fa-book'></i> Paper </a>
 * Tianya Terry Zhang, Peter J. Jin, Benedetto Piccoli, and Mina Sartipi. Deep spatial-temporal embedding for vehicle trajectory validation and refinement. Computer-Aided Civil and Infrastructure Engineering, 1–19.
 <a href="https://teryzh.github.io/DSTE_NGSM_Validation_Refinement/"><i class="fa fa-home" aria-hidden="true" ></i> HomePage </a>
