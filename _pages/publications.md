@@ -46,6 +46,7 @@ author_profile: true
 * Tianya Zhang, Big-Data-Application-for-Network-Level-Travel-Time-Prediction With Hierarchical LSTM. TRB 103th Annual Meeting, Washington, D.C., January 2024.
 <a href="https://github.com/TeRyZh/Big-Data-Analytics-for-Network-Level-Travel-Time-Prediction"><i class='fab fa-github'></i> Github </a>
 <a href="https://arxiv.org/abs/2201.05760"><i class='fa fa-book'></i> Paper</a>
+* Tianya Terry Zhang, Deep Patel, Yi Ge, Peter Jin, Anjiang Chen, Mohammad Jalayer, Multimodal Background Modeling for Roadside LiDAR Mobility and Safety Applications. TRB 102th Annual Meeting, Washington, D.C., January 2023
 * Tianya Zhang, Peter Jin, McVeigh, K., Brennan, T. and Jalayer, M, Automating the Traffic Signal Performance Measures for Adaptive Traffic Signal Control System. TRB 100th Annual Meeting, Washington, D.C., January 2021.
 * Tianya Zhang, Burris M, Jin PJ. Empirical Study of the Variation of Value of Travel Time and Reliability. TRB 96th Annual Meeting, Washington, D.C., January 2017.
 * Tianya Zhang, & Ding, Limin. Traffic Safety Study Based on Harmony (HeXie) Theory. In International Conference on Transportation and Traffic Engineering 2013: Safety, Speediness, Intelligence, Low-Carbon, Innovation (pp. 600-606). 
