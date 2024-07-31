@@ -21,7 +21,7 @@ author_profile: true
 * Tianya Terry Zhang, Peter J. Jin, Benedetto Piccoli, and Mina Sartipi. Deep spatial-temporal embedding for vehicle trajectory validation and refinement. *Computer-Aided Civil and Infrastructure Engineering*, 1–19.
 <a href="https://teryzh.github.io/DSTE_NGSM_Validation_Refinement/"><i class="fa fa-home" aria-hidden="true" ></i> HomePage </a>
 <a href="https://doi.org/10.1111/mice.13160"><i class='fa fa-book'></i> Paper</a>
-* T. T. Zhang and P. J. Jin, "Segmentation is Tracking: Spatial-Temporal Map Vehicle Trajectory Reconstruction and Validation," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2023.3299504.
+* T. T. Zhang and P. J. Jin, "Segmentation is Tracking: Spatial-Temporal Map Vehicle Trajectory Reconstruction and Validation," in *IEEE Transactions on Intelligent Transportation Systems*, doi: 10.1109/TITS.2023.3299504.
 <a href="https://github.com/TeRyZh/Reconstruction-NGSIM-Trajectory-with-DMD-and-Res_UNet_plus"><i class='fab fa-github'></i> Github </a>
 <a href="https://ieeexplore.ieee.org/document/10221774"><i class='fa fa-book'></i> Paper</a>
 * Yi Ge, Peter J. Jin, Tianya Zhang, Anjiang Chen. Roadside LiDAR Sensor Configuration Assessment and Optimization Methods for Vehicle Detection and Tracking in Connected and Automated Vehicle Applications. *Transportation Research Record*. 2023. <a href="https://journals.sagepub.com/doi/abs/10.1177/03611981231172949"><i class='fa fa-book'></i> Paper</a>
