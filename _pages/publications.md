@@ -27,7 +27,7 @@ author_profile: true
 <a href="https://ieeexplore.ieee.org/document/10221774"><i class='fa fa-book'></i> Paper</a>
 * Yi Ge, Peter J. Jin, Tianya Zhang, Anjiang Chen. Roadside LiDAR Sensor Configuration Assessment and Optimization Methods for Vehicle Detection and Tracking in Connected and Automated Vehicle Applications. *Transportation Research Record*. 2023. <a href="https://journals.sagepub.com/doi/abs/10.1177/03611981231172949"><i class='fa fa-book'></i> Paper</a>
 * Zhang, Tianya Terry, Peter J. Jin, Thomas M. Brennan Jr, Kelly McVeigh, Mohammad Jalayer, and Deep Patel. Arterial Vehicle Trajectory Reconstruction Based on Stop-Bar Video Sensor for Automated Traffic Signal Performance Measures. *Journal of Transportation Engineering, Part A: Systems*. 2022. DOI: 10.1061/JTEPBS.0000749
-<a href="https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000749"><i class='fa fa-book'></i> Paper</a>
+<a href="https://github.com/TeRyZh/Website/blob/main/files/zhang-et-al-2023-arterial-vehicle-trajectory-reconstruction-based-on-stopbar-video-sensor-for-automated-traffic-signal.pdf"><i class='fa fa-book'></i> Paper</a> 
 * Tianya Zhang, Peter J. Jin, "Roadside LiDAR Vehicle Detection and Tracking Using Range and Intensity Background Subtraction", *Journal of Advanced Transportation*, vol. 2022, Article ID 2771085, 14 pages, 2022. 
 <a href="https://github.com/TeRyZh/Roadside-LiDAR-Vehicle-Detection-and-Tracking-Background-Subtraction"><i class='fab fa-github'></i> Github </a>
 <a href="https://doi.org/10.1155/2022/2771085"><i class='fa fa-book'></i> Paper</a>
