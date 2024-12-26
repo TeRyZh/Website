@@ -66,3 +66,4 @@ author_profile: true
 * Jin J, Ran B, Chen T, Jiang X, Zhang T, Yao Z, inventors; CAVH LLC, assignee. Cloud-based technology for connected and automated vehicle highway systems. United States patent application US 16/454,268.
 * Jin J, Ran B, Chen T, Zhang T, Jiang X, Yao Z, inventors; CAVH LLC, assignee. Fixed-route service system for CAVH systems. United States patent application US 16/506,470. 2020 Jan 16.
 * Jing Jin, Bobby Ouyang, Seyedamirali Ardestani, Yizhou Wang, Xiaowen Jiang, Tianya Zhang, Incident Site Investigation and Management System based on Unmanned Aerial Vehicles, U.S. Non-Provisional Patent Application No. 62/544,461, Publication Date: 14-Feb-2019. (Patent leads to the [SkyeBrowse](https://www.skyebrowse.com/) Company)
+* Cloud-based model deployment and control system (cmdcs) for providing automated driving services. U.S. Patent Application 18/779,372.
