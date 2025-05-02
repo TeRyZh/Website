@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ### Journals
-* Tianya Zhang, Lei Cheng, Tam Bang, Lihao Guo, Mustafa Hajij, Siyang Cao, Austin Harris, and Mina Sartipi. Roadside Sensor Systems for Vulnerable Road User Protection: A Review of Methods and Applications，IEEE ACCESS. DOI: 10.1109/ACCESS.2025.3558174, 2025. 
+* Tianya Zhang, Lei Cheng, Tam Bang, Lihao Guo, Mustafa Hajij, Siyang Cao, Austin Harris, and Mina Sartipi. Roadside Sensor Systems for Vulnerable Road User Protection: A Review of Methods and Applications，IEEE ACCESS. DOI: 10.1109/ACCESS.2025.3558174, 2025. <a href="https://ieeexplore.ieee.org/document/10950445"><i class='fa fa-book'></i> Paper </a>
 * T. T. Zhang, Network Level Spatial Temporal Traffic Forecasting with Hierarchical-Attention-LSTM, In Digital Transportation and Safety
 3(4): 240−252 https://doi.org/10.48130/dts-0024-0021. <a href="https://www.maxapress.com/article/doi/10.48130/dts-0024-0021"><i class='fa fa-book'></i> Paper </a>
 <a href="https://github.com/TeRyZh/Network-Level-Travel-Prediction-Hierarchical-Attention-LSTM"><i class='fab fa-github'></i> Github </a>
