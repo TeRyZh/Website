@@ -16,6 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ### Journals
+* Chen, A., Jin, P. J., & Zhang, T. T. (2025). LiDAR Vehicle Trajectory Reconstruction with Arterial Shockwave Detection and Space–Time Analysis. Transportation Research Record, 0(0). <a href="https://doi.org/10.1177/03611981251357924"><i class='fa fa-book'></i> Paper </a>
 * Tianya Zhang, Lei Cheng, Tam Bang, Lihao Guo, Mustafa Hajij, Siyang Cao, Austin Harris, and Mina Sartipi. Roadside Sensor Systems for Vulnerable Road User Protection: A Review of Methods and Applications，in IEEE Access, vol. 13, pp. 62717-62738, 2025, doi: 10.1109/ACCESS.2025.3558174. <a href="https://ieeexplore.ieee.org/document/10950445"><i class='fa fa-book'></i> Paper </a>
 * T. T. Zhang, Network Level Spatial Temporal Traffic Forecasting with Hierarchical-Attention-LSTM, In Digital Transportation and Safety
 3(4): 240−252 https://doi.org/10.48130/dts-0024-0021. <a href="https://www.maxapress.com/article/doi/10.48130/dts-0024-0021"><i class='fa fa-book'></i> Paper </a>
