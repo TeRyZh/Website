@@ -16,6 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ### Journals
+* L. Cheng et al., "CalibRefine: Deep Learning-Based Online Automatic Targetless LiDAR–Camera Calibration With Iterative and Attention-Driven Post-Refinement," in IEEE Transactions on Instrumentation and Measurement, vol. 75, pp. 1-18, 2026, Art no. 9500418, doi: 10.1109/TIM.2025.3647989. <a href="https://ieeexplore.ieee.org/document/11314647"><i class='fa fa-book'></i> Paper </a>
 * Yi Ge, Peter J. Jin, Tianya Terry Zhang. Roadside CCTV Traffic Sensor Coverage and Spatial Accuracy Analysis with Line-of-Sight Simulation over 3D Digital Surface Model. Transportation Research Record. <a href="https://doi.org/10.1177/03611981251398747"><i class='fa fa-book'></i> Paper </a>
 * Chen, A., Jin, P. J., & Zhang, T. T. LiDAR Vehicle Trajectory Reconstruction with Arterial Shockwave Detection and Space–Time Analysis. Transportation Research Record, 0(0). <a href="https://doi.org/10.1177/03611981251357924"><i class='fa fa-book'></i> Paper </a>
 * Tianya Zhang, Lei Cheng, Tam Bang, Lihao Guo, Mustafa Hajij, Siyang Cao, Austin Harris, and Mina Sartipi. Roadside Sensor Systems for Vulnerable Road User Protection: A Review of Methods and Applications，in IEEE Access, vol. 13, pp. 62717-62738, 2025, doi: 10.1109/ACCESS.2025.3558174. <a href="https://ieeexplore.ieee.org/document/10950445"><i class='fa fa-book'></i> Paper </a>
