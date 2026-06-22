@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor at Soochow University in Suzhou, specializing in Intelligent Transportation Systems (ITS) and smart infrastructure. My research explores the intersection of machine learning, computer vision, and connected and automated vehicle (CAV) technologies to engineer safe, sustainable, and intelligent mobility applications.
-
-A central theme of my academic background is the extraction and validation of high-fidelity traffic data. I developed non-conventional video detection and validation methodologies that leverage computer vision alongside 3D point cloud processing to achieve high-resolution vehicle trajectory collection. Today, my work continues to advance spatial-temporal perception and traffic modeling for next-generation automated driving environments.
+I am a Professor at Soochow University in Suzhou, specializing in Intelligent Transportation Systems (ITS) and smart infrastructure. The central theme of my research is data-driven traffic dynamical modeling and control for next-generation automated driving environments. As accurate modeling and control require high-fidelity data, advanced perception forms a fundamental pillar of my research. Today, these perception frameworks directly inform and empower the dynamical control strategies necessary to build safe and sustainable automated driving systems. 
 
 
 ### Traffic Detection and Sensing
