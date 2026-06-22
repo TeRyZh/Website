@@ -11,10 +11,16 @@ redirect_from:
 I am a Professor at Soochow University in Suzhou, specializing in Intelligent Transportation Systems (ITS) and smart infrastructure. The central theme of my research is data-driven traffic dynamical modeling and control for next-generation automated driving environments. As accurate modeling and control require high-fidelity data, advanced perception forms a fundamental pillar of my research. Today, these perception frameworks directly inform and empower the dynamical control strategies necessary to build safe and sustainable automated driving systems. 
 
 
-### Traffic Detection and Sensing
+### 1. Traffic Detection and Sensing
 Applying computer vision, LiDAR, and drone-based sensing to collect high-resolution data for research and innovations. 
 
-####                _Figure 1. High-resolution High Angle Vehicle Trajectory Detection (Blue: Faulty NGSIM Trajectory; Red: Our Reconstructed NGSIM Trajectory)_
+### 2. Robotics with Mobility Applications
+Connected and Automated Vehicle and Highway, Smart Mobility and Operational Design, and Wireless Communications & IoT.
+
+### 3. Arterial Management and Operations
+Automated Traffic Signal Performance Measures (ATSPMs) and Traffic Flow Theory. Scientific machine learning for traffic modeling, control and prediction.
+
+####                _Figure 1. High-resolution High Angle Vehicle Trajectory Detection_
 ![](https://raw.githubusercontent.com/TeRyZh/Website/main/images/NGSIM%20Reconstruction.gif)
 
 ####                _Figure 2. Intersection Roadside LiDAR Object Detection_
@@ -26,19 +32,14 @@ Applying computer vision, LiDAR, and drone-based sensing to collect high-resolut
 ![](https://github.com/TeRyZh/Website/blob/main/images/point_cloud_tracking_2d-ezgif.com-crop.gif?raw=true)
 
 
-### Robotics with Mobility Applications
-Connected and Automated Vehicle and Highway, Smart Mobility and Operational Design, and Wireless Communications & IoT.
-
 ####                 _Figure 4. 511 Advanced Traveler Information System_ 
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/https://github.com/TeRyZh/Website/blob/main/images/Picture1.gif" width="600" height="400"> -->
 ![](https://raw.githubusercontent.com/TeRyZh/Website/main/images/Picture1.gif)
 
-### Arterial Management and Operations
-Automated Traffic Signal Performance Measures (ATSPMs) and Traffic Flow Theory. Scientific machine learning for traffic modeling, control and prediction.
-
+<!-- 
 ####                _Figure 5. Rutgers Coordination Diagram (RCD)_
-<img src="https://raw.githubusercontent.com/TeRyZh/Website/main/images/RCD%20with%20Trajectory.png" width="800" height="400"> 
-
+<img src="https://raw.githubusercontent.com/TeRyZh/Website/main/images/RCD%20with%20Trajectory.png" width="800" height="400">  -->
+```
 
 
 <!-- ![](https://github.com/TeRyZh/Website/blob/main/images/HASDA%20Model%20Detection.gif?raw=true) -->
