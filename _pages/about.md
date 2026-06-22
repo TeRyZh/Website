@@ -11,15 +11,6 @@ redirect_from:
 I am a Professor at Soochow University in Suzhou, specializing in Intelligent Transportation Systems (ITS) and smart infrastructure. The central theme of my research is data-driven traffic dynamical modeling and control for next-generation automated driving environments. As accurate modeling and control require high-fidelity data, advanced perception forms a fundamental pillar of my research. Today, these perception frameworks directly inform and empower the dynamical control strategies necessary to build safe and sustainable automated driving systems. 
 
 
-### 1. Traffic Detection and Sensing
-Applying computer vision, LiDAR, and drone-based sensing to collect high-resolution data for research and innovations. 
-
-### 2. Robotics with Mobility Applications
-Connected and Automated Vehicle and Highway, Smart Mobility and Operational Design, and Wireless Communications & IoT.
-
-### 3. Arterial Management and Operations
-Automated Traffic Signal Performance Measures (ATSPMs) and Traffic Flow Theory. Scientific machine learning for traffic modeling, control and prediction.
-
 ####                _Figure 1. High-resolution High Angle Vehicle Trajectory Detection_
 ![](https://raw.githubusercontent.com/TeRyZh/Website/main/images/NGSIM%20Reconstruction.gif)
 
