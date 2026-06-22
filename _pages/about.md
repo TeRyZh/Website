@@ -40,6 +40,3 @@ Automated Traffic Signal Performance Measures (ATSPMs) and Traffic Flow Theory. 
 ####                _Figure 5. Rutgers Coordination Diagram (RCD)_
 <img src="https://raw.githubusercontent.com/TeRyZh/Website/main/images/RCD%20with%20Trajectory.png" width="800" height="400">  
 -->
-
-
-
