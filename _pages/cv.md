@@ -18,13 +18,12 @@ Education
 
 Work experience
 ------
+* Research Faculty, University of Tennessee at Chattanooga, 09/2023 - 09/2025
 * Post-Doctoral Associate, Rutgers University- Camden, 06/2022 - 06/2023
-  * [CIRCLES-Consortium](https://circles-consortium.github.io/index.html): [The Largest CAV-based Mobile Traffic Control Experiment](https://apnews.com/article/technology-nashville-pollution-traffic-4962e01d3226685012f1919077be29d1)
-  * C2SMART Center: [Collaborative Driving for Ramp Metering Control](https://c2smart.engineering.nyu.edu/collaborative-driving-ramp-metering-and-mean-field-controls/)
 * Research Intern, Skyebrowser, 05/2022 - 06/2023
   * Drone Based Video Analysis
 <!-- Teaching Assistant, University of Pennsylvania
-   CIT 595: Computer Systems Programming, 2021 Fall
+  CIT 595: Computer Systems Programming, 2021 Fall
   CIT 596: Algorithms & Computation, 2021 Fall, 2022 Fall, 2023 Spring -->
 <!-- Graduate Research Assistant, 09/2016 – 11/2021,
   Department of Civil and Environmental Engineering
